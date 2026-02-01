@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/gsoulat/formation-data-engineer/compare/v1.4.0...v1.4.1) (2026-02-01)
+
+
+### Bug Fixes
+
+* **Docker:** brief + cours docker ([44bb892](https://github.com/gsoulat/formation-data-engineer/commit/44bb8926279e3fb518806e7aade770d44998e9f3))
+
 # [1.4.0](https://github.com/gsoulat/formation-data-engineer/compare/v1.3.0...v1.4.0) (2025-11-16)
 
 
