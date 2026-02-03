@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/gsoulat/formation-data-engineer/compare/v1.4.1...v2.0.0) (2026-02-03)
+
+
+### Features
+
+* **Conversion:** Conversion des cours html en markdown " ([9e25959](https://github.com/gsoulat/formation-data-engineer/commit/9e259592e9426713ab7359b5fc2847306173a61c))
+
+
+### BREAKING CHANGES
+
+* **Conversion:** Changement structure cours
+
 ## [1.4.1](https://github.com/gsoulat/formation-data-engineer/compare/v1.4.0...v1.4.1) (2026-02-01)
 
 
