@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.3.0...v2.4.0) (2026-02-08)
+
+
+### Features
+
+* **Gitlab:** Ajout du cours Gitlab ([d09ed70](https://github.com/gsoulat/formation-data-engineer/commit/d09ed70040211f2d315862ac9f2f2fa0c062afa0))
+
 # [2.3.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.2.0...v2.3.0) (2026-02-08)
 
 
