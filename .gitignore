@@ -22,7 +22,7 @@ terraform.rc
 
 .venv
 
-gcp
+
 gcp.pub
 
 *.pyc
@@ -83,4 +83,4 @@ wheels/
 *password*.txt
 .env.local
 .env.*.local
-10-Large-Language-Model/LLM
+
