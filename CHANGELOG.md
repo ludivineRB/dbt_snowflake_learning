@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.3...v2.2.0) (2026-02-08)
+
+
+### Features
+
+* **SQL:** Ajout du cours SQL ([3d1d4ad](https://github.com/gsoulat/formation-data-engineer/commit/3d1d4ad90543f2fc27b3c97244ed1c819575fbf8))
+
 ## [2.1.3](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.2...v2.1.3) (2026-02-08)
 
 
