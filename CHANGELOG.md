@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.7.0...v2.8.0) (2026-02-08)
+
+
+### Features
+
+* **Terraform:** Ajout du cours Terraform sur GCP + exo ([cdf6eb4](https://github.com/gsoulat/formation-data-engineer/commit/cdf6eb4b37d16b946c83b3aa41c46fca291e170a))
+
 # [2.7.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.6.0...v2.7.0) (2026-02-08)
 
 
