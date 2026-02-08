@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.2...v2.1.3) (2026-02-08)
+
+
+### Bug Fixes
+
+* **Bash-Zsh:** Update cours Bash-Zsh ([bc530ac](https://github.com/gsoulat/formation-data-engineer/commit/bc530ac6806c77a0a948ba8f29990c92cde5b297))
+
 ## [2.1.2](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.1...v2.1.2) (2026-02-08)
 
 
