@@ -39,7 +39,7 @@ app-django/
 data/
 03-Infrastructure-as-Code/Terraform/A trier/Terraform/Trainning terraform/AWS/creds/berry-devops.pem
 .claude
-
+Formateur/
 
 # Node.js / NPM (pour semantic-release)
 node_modules/

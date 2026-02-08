@@ -21,16 +21,7 @@ Un **Data Warehouse** (entrepôt de données) est un système de stockage centra
 
 ### Le problème des silos de données
 
-```
-┌─────────────┐  ┌─────────────┐  ┌─────────────┐
-│    ERP      │  │    CRM      │  │  E-commerce │
-│  (Oracle)   │  │(Salesforce) │  │  (Shopify)  │
-└──────┬──────┘  └──────┬──────┘  └──────┬──────┘
-       │                │                │
-       ▼                ▼                ▼
-   Formats          Formats          Formats
-   différents       différents       différents
-```
+![Le problème des silos de données](./images/01/silos-donnees.png)
 
 **Problèmes :**
 - Données dispersées et incohérentes
@@ -40,28 +31,7 @@ Un **Data Warehouse** (entrepôt de données) est un système de stockage centra
 
 ### La solution : centralisation
 
-```
-┌─────────────┐  ┌─────────────┐  ┌─────────────┐
-│    ERP      │  │    CRM      │  │  E-commerce │
-└──────┬──────┘  └──────┬──────┘  └──────┬──────┘
-       │                │                │
-       └────────────────┼────────────────┘
-                        │
-                   ┌────▼────┐
-                   │   ETL   │
-                   └────┬────┘
-                        │
-              ┌─────────▼─────────┐
-              │   DATA WAREHOUSE  │
-              │   (Vue unifiée)   │
-              └─────────┬─────────┘
-                        │
-        ┌───────────────┼───────────────┐
-        ▼               ▼               ▼
-   ┌─────────┐    ┌─────────┐    ┌─────────┐
-   │   BI    │    │ Reports │    │   ML    │
-   └─────────┘    └─────────┘    └─────────┘
-```
+![La solution : centralisation via ETL et Data Warehouse](./images/01/centralisation-dw.png)
 
 ## Composants d'un Data Warehouse
 
@@ -159,3 +129,4 @@ Le **Lakehouse** combine le meilleur des deux mondes :
 **Prochain module :** [02 - OLTP vs OLAP](./02-oltp-vs-olap.md)
 
 [Retour au sommaire](./README.md)
+

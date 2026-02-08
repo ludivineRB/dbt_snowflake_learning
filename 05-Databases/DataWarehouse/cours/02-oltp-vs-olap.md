@@ -13,19 +13,7 @@ Les systèmes de données se divisent en deux grandes catégories selon leur usa
 
 ### Caractéristiques
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    SYSTÈME OLTP                          │
-├─────────────────────────────────────────────────────────┤
-│  Objectif : Gérer les opérations quotidiennes           │
-│                                                          │
-│  ✓ Transactions courtes et fréquentes                   │
-│  ✓ CRUD (Create, Read, Update, Delete)                  │
-│  ✓ Accès à quelques lignes à la fois                    │
-│  ✓ Haute disponibilité requise                          │
-│  ✓ Temps de réponse < 1 seconde                         │
-└─────────────────────────────────────────────────────────┘
-```
+![OLTP vs OLAP](./images/02/oltp-vs-olap.png)
 
 ### Exemples de systèmes OLTP
 
@@ -69,19 +57,7 @@ SELECT * FROM customers WHERE customer_id = 12345;
 
 ### Caractéristiques
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    SYSTÈME OLAP                          │
-├─────────────────────────────────────────────────────────┤
-│  Objectif : Analyser pour décider                       │
-│                                                          │
-│  ✓ Requêtes complexes sur gros volumes                  │
-│  ✓ Agrégations, calculs, comparaisons                   │
-│  ✓ Accès à millions de lignes                           │
-│  ✓ Lecture intensive (peu d'écriture)                   │
-│  ✓ Temps de réponse : secondes à minutes                │
-└─────────────────────────────────────────────────────────┘
-```
+> Voir le diagramme comparatif OLTP vs OLAP ci-dessus.
 
 ### Exemples de systèmes OLAP
 
@@ -123,27 +99,7 @@ GROUP BY product_category;
 
 **Dénormalisée** pour la performance (Star Schema) :
 
-```
-                    ┌──────────────────┐
-                    │    DIM_DATE      │
-                    ├──────────────────┤
-                    │ date_key PK      │
-                    │ date             │
-                    │ year             │
-                    │ quarter          │
-                    │ month            │
-                    └────────┬─────────┘
-                             │
-┌──────────────┐    ┌────────▼─────────┐    ┌──────────────┐
-│ DIM_CUSTOMER │    │   FACT_SALES     │    │ DIM_PRODUCT  │
-├──────────────┤    ├──────────────────┤    ├──────────────┤
-│ customer_key │◄───│ customer_key FK  │───►│ product_key  │
-│ name         │    │ product_key FK   │    │ name         │
-│ region       │    │ date_key FK      │    │ category     │
-│ segment      │    │ amount           │    │ brand        │
-└──────────────┘    │ quantity         │    └──────────────┘
-                    └──────────────────┘
-```
+![Star Schema](./images/02/star-schema.png)
 
 ## Comparaison détaillée
 
@@ -160,28 +116,25 @@ GROUP BY product_category;
 | **Mise à jour** | Fréquente | Batch (ETL) |
 | **Disponibilité** | 99.99% | 99.9% |
 
+### HTAP : le meilleur des deux mondes ?
+
+Les systèmes **HTAP** (Hybrid Transactional/Analytical Processing) promettent de combiner OLTP et OLAP dans un même moteur :
+
+| Système | Approche |
+|---------|----------|
+| **TiDB** | Base distribuée compatible MySQL + analytique |
+| **CockroachDB** | PostgreSQL-compatible avec capacités analytiques |
+| **SingleStore** (ex-MemSQL) | In-memory, row + column store |
+| **AlloyDB** (Google) | PostgreSQL managé avec moteur analytique |
+
+> **En pratique :** HTAP reste émergent. La plupart des architectures production maintiennent la séparation OLTP + OLAP pour des raisons de performance et d'isolation. Mais la tendance est à la convergence.
+
 ## Stockage : Row vs Column
 
-### Row-based (OLTP)
+![Row-based vs Column-based storage](./images/02/row-vs-column.png)
 
-```
-Row 1: [id=1, nom="Alice", region="Paris", amount=100]
-Row 2: [id=2, nom="Bob",   region="Lyon",  amount=200]
-Row 3: [id=3, nom="Carol", region="Paris", amount=150]
-```
-
-Optimisé pour : `SELECT * FROM clients WHERE id = 2`
-
-### Column-based (OLAP)
-
-```
-Column id:     [1, 2, 3]
-Column nom:    ["Alice", "Bob", "Carol"]
-Column region: ["Paris", "Lyon", "Paris"]
-Column amount: [100, 200, 150]
-```
-
-Optimisé pour : `SELECT region, SUM(amount) FROM clients GROUP BY region`
+- **Row-based** : optimisé pour `SELECT * FROM clients WHERE id = 2`
+- **Column-based** : optimisé pour `SELECT region, SUM(amount) FROM clients GROUP BY region`
 
 ### Avantages du stockage colonne
 
@@ -241,9 +194,10 @@ ORDER BY 1, 3 DESC;
 - Stockage colonnes = optimisé pour agrégations
 - Le Data Warehouse est un système OLAP
 - Les deux systèmes sont complémentaires
+- **HTAP** = tendance émergente combinant OLTP + OLAP dans un même système
 
 ---
 
-**Prochain module :** [03 - Architectures et Patterns](./03-architectures.md)
+**Prochain module :** [03 - Modélisation dimensionnelle](./03-modelisation.md)
 
 [Module précédent](./01-introduction.md) | [Retour au sommaire](./README.md)
