@@ -1,3 +1,10 @@
+## [2.8.1](https://github.com/gsoulat/formation-data-engineer/compare/v2.8.0...v2.8.1) (2026-02-08)
+
+
+### Bug Fixes
+
+* **Databricks+Hadoop+Spark:** Update des cours sur Databricks + Hadoop + Spark ([6fd20ac](https://github.com/gsoulat/formation-data-engineer/commit/6fd20ac8de4ea15110125df480a4ef1a0eff008b))
+
 # [2.8.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.7.0...v2.8.0) (2026-02-08)
 
 
