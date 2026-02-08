@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.1...v2.1.2) (2026-02-08)
+
+
+### Bug Fixes
+
+* **Git:** Update cours Git ([e76d201](https://github.com/gsoulat/formation-data-engineer/commit/e76d2017f6e228766463c07d9fb4161d4105af33))
+
 ## [2.1.1](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.0...v2.1.1) (2026-02-08)
 
 
