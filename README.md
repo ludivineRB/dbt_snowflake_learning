@@ -17,6 +17,9 @@ L'objectif n’est pas de tout faire, mais de suivre un parcours clair et progre
 ### [🟣 Parcours 3 : DevOps / Cloud Junior](PATH_DEVOPS.md)
 *Objectif : Être capable de déployer, automatiser et maintenir une infrastructure cloud.*
 
+### [🧠 Parcours 4 : Développeur IA](PATH_DEV_IA.md)
+*Objectif : Être capable de concevoir, entraîner et déployer des modèles d'IA, du Machine Learning aux agents LLM.*
+
 ---
 
 ## 🏗️ Structure du repository
@@ -30,6 +33,9 @@ formation-data-engineer/
 ├── 05-Databases/              # Stockage (DWH, NoSQL)
 ├── 06-Data-Engineering/       # Cœur du métier (Spark, dbt, dlt)
 ├── 07-DevOps/                 # Industrialisation (CI/CD, Monitoring)
+├── 08-Machine-Learning/       # ML classique (Scikit-learn, régression, classification)
+├── 09-Deep-Learning/          # CNN, NLP, Transformers
+├── 10-Large-Language-Model/   # LLM, RAG, Agents, Fine-tuning
 └── 99-Brief/                  # Projets finaux et évaluations
 ```
 
@@ -47,7 +53,7 @@ formation-data-engineer/
 
 ## 🛠️ Technologies Couvertes
 
-**Bash / Zsh** | **Git / GitHub** | **Python (POO, Data)** | **SQL** | **Docker & K8s** | **Terraform & Ansible** | **Azure & GCP** | **Spark & dbt**
+**Bash / Zsh** | **Git / GitHub** | **Python (POO, Data)** | **SQL** | **Docker & K8s** | **Terraform & Ansible** | **Azure & GCP** | **Spark & dbt** | **Scikit-learn & PyTorch** | **LangChain & RAG**
 
 ---
 
