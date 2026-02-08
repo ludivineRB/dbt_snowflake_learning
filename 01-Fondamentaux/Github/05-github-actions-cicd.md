@@ -1,3 +1,9 @@
+# 05 - GitHub Actions (CI/CD)
+
+[← 04 - Issues et Projects](04-issues-gestion-projet.md) | [🏠 Accueil](README.md) | [06 - Sécurité →](06-securite-bonnes-pratiques.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Comprendre GitHub Actions et ses concepts clés
@@ -31,7 +37,7 @@
 
 Créez le fichier `.github/workflows/tests.yml` :
 
-```bash
+```yaml
 name: Tests
 
 # Trigger: quand et comment le workflow s'exécute
@@ -79,7 +85,7 @@ jobs:
 
 Fichier `.github/workflows/lint.yml` :
 
-```bash
+```yaml
 name: Code Quality
 
 on:
@@ -116,7 +122,7 @@ jobs:
 
 Fichier `.github/workflows/deploy.yml` :
 
-```bash
+```yaml
 name: Deploy to Azure Production
 
 on:
@@ -216,10 +222,6 @@ contient des milliers d'actions prêtes à l'emploi :
 - Utilisez des matrix builds pour tester sur plusieurs versions
 - Ne jamais hardcoder de secrets dans les fichiers YAML
 
-#### Prochaine étape
+---
 
-Vous savez maintenant automatiser avec GitHub Actions ! Passons à la **Partie 6** pour
-sécuriser vos projets.
-
-[← Partie 4 : Issues et Projects](partie4.md)
-[Partie 6 : Sécurité →](partie6.md)
+[← 04 - Issues et Projects](04-issues-gestion-projet.md) | [🏠 Accueil](README.md) | [06 - Sécurité →](06-securite-bonnes-pratiques.md)

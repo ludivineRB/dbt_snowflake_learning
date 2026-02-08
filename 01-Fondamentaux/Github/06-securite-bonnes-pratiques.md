@@ -1,3 +1,9 @@
+# 06 - Sécurité et bonnes pratiques
+
+[← 05 - GitHub Actions](05-github-actions-cicd.md) | [🏠 Accueil](README.md) | [07 - Fonctionnalités avancées →](07-fonctionnalites-avancees.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Activer et configurer Dependabot
@@ -22,7 +28,7 @@ Activer Dependabot :
 
 Configurer avec `.github/dependabot.yml` :
 
-```bash
+```yaml
 version: 2
 updates:
 # Python dependencies
@@ -180,10 +186,6 @@ Créez des badges personnalisés sur [shields.io](https://shields.io)
 - Un README complet facilite l'onboarding et la collaboration
 - Les badges montrent l'état du projet en un coup d'œil
 
-#### Prochaine étape
+---
 
-Vos projets sont maintenant sécurisés ! Découvrons les **Partie 7** sur les
-fonctionnalités avancées de GitHub.
-
-[← Partie 5 : GitHub Actions](partie5.md)
-[Partie 7 : Fonctionnalités avancées →](partie7.md)
+[← 05 - GitHub Actions](05-github-actions-cicd.md) | [🏠 Accueil](README.md) | [07 - Fonctionnalités avancées →](07-fonctionnalites-avancees.md)

@@ -1,3 +1,9 @@
+# 07 - Fonctionnalités avancées
+
+[← 06 - Sécurité](06-securite-bonnes-pratiques.md) | [🏠 Accueil](README.md) | [08 - Exercices →](08-exercices.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Maîtriser GitHub CLI (gh)
@@ -215,5 +221,6 @@ Vous avez terminé la formation GitHub ! Vous maîtrisez maintenant :
 
 Continuez à pratiquer sur vos propres projets et n'hésitez pas à contribuer à l'open source !
 
-[← Partie 6 : Sécurité](partie6.md)
-[🏠 Retour à l'accueil](../index.md)
+---
+
+[← 06 - Sécurité](06-securite-bonnes-pratiques.md) | [🏠 Accueil](README.md) | [08 - Exercices →](08-exercices.md)

@@ -1,3 +1,9 @@
+# 04 - Issues et Gestion de projet
+
+[← 03 - Pull Requests](03-pull-requests-code-review.md) | [🏠 Accueil](README.md) | [05 - GitHub Actions →](05-github-actions-cicd.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Créer et gérer des Issues efficacement
@@ -146,10 +152,6 @@ Cela maintient votre backlog à jour sans effort manuel.
 - Liez automatiquement Issues et PR avec closes/fixes/resolves
 - L'automatisation réduit la gestion manuelle du projet
 
-#### Prochaine étape
+---
 
-Vous savez maintenant organiser votre projet ! Passons à la **Partie 5** pour
-automatiser avec GitHub Actions.
-
-[← Partie 3 : Pull Requests](partie3.md)
-[Partie 5 : GitHub Actions →](partie5.md)
+[← 03 - Pull Requests](03-pull-requests-code-review.md) | [🏠 Accueil](README.md) | [05 - GitHub Actions →](05-github-actions-cicd.md)

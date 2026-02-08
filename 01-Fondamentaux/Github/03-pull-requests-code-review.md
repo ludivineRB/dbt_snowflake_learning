@@ -1,3 +1,9 @@
+# 03 - Pull Requests et Code Review
+
+[← 02 - Premiers pas](02-premiers-pas-ssh.md) | [🏠 Accueil](README.md) | [04 - Issues et Projects →](04-issues-gestion-projet.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Comprendre le rôle central des Pull Requests
@@ -185,7 +191,7 @@ git push origin feature/add-data-validation
 
 #### Git Push automatique
 
-Chaque fois que vous push un nouveau commit sur la branche, la PR est automatiquement mise à
+Chaque fois que vous push un nouveau commit on la branche, la PR est automatiquement mise à
 jour.
 Les reviewers sont notifiés des nouveaux changements.
 
@@ -227,10 +233,6 @@ git branch -d feature/add-data-validation
 - Squash and merge est recommandé pour garder un historique propre
 - Ne mergez qu'après approbation et tests qui passent
 
-#### Prochaine étape
+---
 
-Vous maîtrisez maintenant les Pull Requests ! Passons à la **Partie 4** pour apprendre
-à organiser votre travail avec Issues et Projects.
-
-[← Partie 2 : Premiers pas](partie2.md)
-[Partie 4 : Issues et Projects →](partie4.md)
+[← 02 - Premiers pas](02-premiers-pas-ssh.md) | [🏠 Accueil](README.md) | [04 - Issues et Projects →](04-issues-gestion-projet.md)

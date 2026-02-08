@@ -1,3 +1,9 @@
+# 01 - Introduction à GitHub
+
+[🏠 Retour à l'accueil](README.md) | [02 - Premiers pas →](02-premiers-pas-ssh.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Comprendre ce qu'est GitHub et son histoire
@@ -95,10 +101,6 @@ Accès à des millions de projets data engineering open source pour apprendre et
 - Les concepts clés : Repository, Fork, Pull Request, Issue, Actions
 - GitHub domine le marché mais des alternatives existent (GitLab, Bitbucket)
 
-#### Prochaine étape
+---
 
-Maintenant que vous comprenez ce qu'est GitHub, passons à la **Partie 2** où vous
-allez créer votre compte et configurer votre environnement.
-
-[← Retour à l'accueil](../index.md)
-[Partie 2 : Premiers pas →](partie2.md)
+[🏠 Retour à l'accueil](README.md) | [02 - Premiers pas →](02-premiers-pas-ssh.md)

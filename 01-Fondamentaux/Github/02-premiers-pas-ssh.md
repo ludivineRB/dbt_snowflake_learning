@@ -1,3 +1,9 @@
+# 02 - Premiers pas sur GitHub
+
+[← 01 - Introduction](01-introduction-concepts.md) | [🏠 Accueil](README.md) | [03 - Pull Requests →](03-pull-requests-code-review.md)
+
+---
+
 ## Objectifs de cette partie
 
 - Créer un compte GitHub professionnel
@@ -151,10 +157,6 @@ dans l'historique !
 - Ajoutez toujours un README, .gitignore et une license
 - Ne committez JAMAIS de secrets ou credentials
 
-#### Prochaine étape
+---
 
-Votre environnement GitHub est prêt ! Passons à la **Partie 3** pour apprendre à
-collaborer avec les Pull Requests.
-
-[← Partie 1 : Introduction](partie1.md)
-[Partie 3 : Pull Requests →](partie3.md)
+[← 01 - Introduction](01-introduction-concepts.md) | [🏠 Accueil](README.md) | [03 - Pull Requests →](03-pull-requests-code-review.md)

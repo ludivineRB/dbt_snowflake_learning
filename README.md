@@ -1,6 +1,6 @@
-# Formation Simplon - DevOps, Cloud & Data Engineering
+# Formation Data Engineer - Simplon
 
-Bienvenue dans le repository de formation Simplon ! Ce dépôt contient l'ensemble des ressources pédagogiques pour les parcours DevOps, Cloud et Data Engineering.
+Bienvenue dans le repository de formation Data Engineer ! Ce dépôt contient l'ensemble des ressources pédagogiques pour le parcours Data Engineer, incluant les fondamentaux DevOps et Cloud.
 
 ## Table des matières
 
@@ -15,255 +15,122 @@ Bienvenue dans le repository de formation Simplon ! Ce dépôt contient l'ensemb
 
 ## À propos
 
-Ce repository regroupe des formations complètes sur les technologies cloud, DevOps et data engineering utilisées en entreprise. Chaque module contient :
+Ce repository regroupe un cursus complet pour devenir Data Engineer. Il couvre l'ensemble de la chaîne de valeur de la donnée, de l'infrastructure à l'analyse, en passant par l'ingestion et la transformation.
 
-- Des cours théoriques (HTML/Markdown)
+Chaque module contient :
+- Des cours théoriques
 - Des exercices pratiques
-- Des datasets réels
 - Des projets guidés (briefs)
 - Des ressources complémentaires
 
 ## Structure du repository
 
 ```
-Formation/
-├── 00-Brief/              # Projets et cas d'usage réels
-├── 01-Basics/             # Technologies fondamentales
-│   ├── Bash-Zsh/          # Shell scripting
-│   ├── Docker/            # Containerisation
-│   ├── Git/               # Gestion de version
-│   └── Github/            # Collaboration et CI/CD
-├── 02-Python/             # Python et outils data
-│   └── DltHub/            # Data Load Tool
-├── 03-Devops/             # Pratiques DevOps (à venir)
-├── Azure/                 # Écosystème Azure
-│   ├── Databricks/        # Analytics et Big Data
-│   └── Hadoop/            # Traitement distribué
-├── Dbt/                   # Data Build Tool
-├── Kubernetes/            # Orchestration de containers
-├── MongoDb/               # Base de données NoSQL
-├── snowflake/             # Data Warehouse cloud
-└── Terraform/             # Infrastructure as Code
-    └── azure/             # Terraform pour Azure
+formation-data-engineer/
+├── 01-Fondamentaux/           # Socle technique indispensable
+│   ├── Bash-Zsh/              # Ligne de commande
+│   ├── Bonne pratique/        # Clean Code, Architecture, Git flow
+│   ├── Git/                   # Gestion de versions
+│   ├── Github/                # Collaboration
+│   └── Python/                # Langage principal pour la Data
+├── 02-Containerisation/       # Standardisation des environnements
+│   ├── Docker/                # Création de conteneurs
+│   └── Kubernetes/            # Orchestration
+├── 03-Infrastructure-as-Code/ # Gestion de l'infrastructure
+│   ├── Ansible/               # Gestion de configuration
+│   └── Terraform/             # Provisioning d'infrastructure
+├── 04-Cloud-Platforms/        # Environnements Cloud
+│   ├── Azure/                 # Microsoft Azure (Databricks, Hadoop...)
+│   ├── GCP/                   # Google Cloud Platform
+│   └── snowflake/             # Data Warehouse Cloud
+├── 05-Databases/              # Stockage des données
+│   ├── DataWarehouse/         # Concepts DWH
+│   └── MongoDb/               # NoSQL
+├── 06-Data-Engineering/       # Cœur du métier
+│   ├── Dbt/                   # Transformation (ELT)
+│   ├── DltHub/                # Ingestion (EL)
+│   ├── Fabric/                # Solution tout-en-un Microsoft
+│   └── Spark/                 # Traitement Big Data distribué
+├── 07-DevOps/                 # Industrialisation
+│   ├── 01-CI-CD/              # Intégration et Déploiement Continus
+│   └── 02-Monitoring/         # Surveillance (Grafana, Prometheus)
+└── 99-Brief/                  # Projets fil rouge et évaluations
 ```
 
 ## Technologies couvertes
 
-### Fondamentaux
-- **Bash/Zsh** - Shell scripting et automatisation
-- **Git/Github** - Contrôle de version et collaboration
-- **Docker** - Containerisation d'applications
-- **SQL** - Requêtes et modélisation de données
+### 1. Fondamentaux & Développement
+- **Python** : Le langage de référence pour la data (POO, Tests, Data Engineering).
+- **Bash/Zsh** : Maîtrise du terminal.
+- **Git/GitHub** : Versionning et travail collaboratif.
+- **Bonnes Pratiques** : Clean Code, Architecture, Sécurité.
 
-### Infrastructure as Code
-- **Terraform** - Provisionnement d'infrastructure
-  - 8 modules de cours
-  - 10 exercices pratiques Azure
-  - Configuration provider Azure
+### 2. Infrastructure & Cloud
+- **Docker & Kubernetes** : Déploiement d'applications conteneurisées.
+- **Terraform & Ansible** : Infrastructure as Code (IaC).
+- **Azure & GCP** : Plateformes Cloud majeures.
 
-### Orchestration & Container
-- **Kubernetes** - Orchestration de containers
-  - 9 modules de cours (déploiements, services, volumes, etc.)
-  - Gestion de clusters
-  - Helm et applications cloud-native
+### 3. Data Engineering & Big Data
+- **Spark** : Traitement de données massives.
+- **Dbt** : Transformation de données (Analytics Engineering).
+- **Snowflake** : Data Warehouse moderne.
+- **Microsoft Fabric** : Plateforme analytique unifiée.
+- **DltHub** : Pipelines d'ingestion de données légers.
+- **MongoDB** : Bases de données orientées documents.
 
-### Cloud Platforms
-- **Azure**
-  - Databricks - Analytics et Machine Learning
-  - Hadoop - Traitement Big Data
-- **Snowflake** - Data Warehouse moderne
-  - 8 modules de cours
-  - 4 datasets réels (Airbnb, E-commerce, Finance, SaaS)
-  - Configuration et monitoring
-
-### Data Engineering
-- **Dbt** - Transformation de données
-  - 10 modules (commandes, modèles, tests, variables)
-  - Best practices data engineering
-- **DltHub** - Data Load Tool
-- **MongoDb** - Base de données NoSQL
-  - 7 modules (introduction → data engineering)
-
-### DevOps (à venir)
-- CI/CD pipelines
-- Monitoring et observabilité
-- GitOps
+### 4. DevOps & Industrialisation
+- **CI/CD** : Pipelines d'automatisation (GitHub Actions, GitLab CI).
+- **Monitoring** : Prometheus, Grafana, Uptime Kuma.
 
 ## Prérequis
 
-### Outils à installer
+### Outils recommandés
+- **Système** : Linux, macOS ou Windows avec WSL2.
+- **Code** : VS Code avec les extensions appropriées (Python, Docker, Terraform...).
+- **Conteneurs** : Docker Desktop ou Rancher Desktop.
+- **Cloud** : CLI Azure, CLI Google Cloud, CLI Snowflake.
 
-Consultez le guide d'installation détaillé : [Terraform Azure - README](Terraform/azure/00-README.md)
-
-**Essentiels :**
-- Git
-- Docker
-- Terminal (Bash/Zsh)
-- Éditeur de code (VS Code recommandé)
-
-**Cloud & IaC :**
-- Azure CLI
-- Terraform
-- kubectl
-
-**Data :**
-- Python 3.8+
-- pip/poetry
-
-### Comptes requis
-
-- **GitHub** - Gestion de code
-- **Azure** - Cloud computing (subscription active)
-- **Snowflake** - Data warehouse (compte trial disponible)
+### Connaissances de base
+- Compréhension de base du fonctionnement d'un ordinateur et d'un réseau.
+- Notions d'algorithmique.
 
 ## Comment utiliser ce repository
 
-### 1. Cloner le repository
+1.  **Cloner le projet** :
+    ```bash
+    git clone <url-du-repo>
+    cd formation-data-engineer
+    ```
 
-```bash
-git clone <url-du-repo>
-cd Formation
-```
+2.  **Suivre la progression** :
+    Le cursus est conçu pour être suivi séquentiellement, du module `01-Fondamentaux` au module `07-DevOps`.
 
-### 2. Choisir un parcours
+3.  **Réaliser les Briefs** :
+    Le dossier `99-Brief/` contient des projets concrets pour valider vos acquis (ex: Pipeline NYC Taxi, Analyse Qualité de l'Eau, etc.).
 
-Consultez la section [Parcours d'apprentissage](#parcours-dapprentissage) ci-dessous.
+## Parcours d'apprentissage suggéré
 
-### 3. Suivre les modules
+1.  **Onboarding (Semaines 1-2)**
+    - Maîtriser le shell, Git et les bases de Python (`01-Fondamentaux`).
 
-Chaque dossier de cours contient :
-- Un `README.md` ou `index.html` comme point d'entrée
-- Des parties numérotées pour suivre l'ordre
-- Des exercices pratiques
-- Des ressources complémentaires
+2.  **Environnement & Infra (Semaines 3-5)**
+    - Comprendre Docker et Kubernetes (`02-Containerisation`).
+    - Automatiser avec Terraform et Ansible (`03-Infrastructure-as-Code`).
 
-### 4. Réaliser les projets
+3.  **Data Engineering Core (Semaines 6-10)**
+    - Bases de données (`05-Databases`, `04-Cloud-Platforms/snowflake`).
+    - Traitement distribué avec Spark (`06-Data-Engineering/Spark`).
+    - Modern Data Stack avec dbt et dlt (`06-Data-Engineering`).
 
-Les briefs de projets sont disponibles dans `00-Brief/` :
-- NYC Taxi Data Pipeline
-- Data Quality
-- ECO2 - RTE Energy Data
-- Et plus encore...
-
-## Parcours d'apprentissage
-
-### Parcours Débutant (2-3 mois)
-
-1. **Fondamentaux**
-   - 01-Basics/Bash-Zsh
-   - 01-Basics/Git
-   - 01-Basics/Github
-   - 01-Basics/Docker
-
-2. **Premier projet**
-   - Choisir un brief simple dans 00-Brief/
-
-### Parcours DevOps (3-4 mois)
-
-1. **Bases** (voir Parcours Débutant)
-2. **Infrastructure**
-   - Terraform
-   - Kubernetes
-3. **Projet d'infrastructure**
-   - Brief infrastructure avec Terraform
-
-### Parcours Cloud Engineer (4-5 mois)
-
-1. **Bases** + **DevOps**
-2. **Cloud Azure**
-   - Azure/Databricks
-   - Azure/Hadoop
-   - Terraform/azure
-3. **Data Warehouse**
-   - snowflake
-
-### Parcours Data Engineering (4-6 mois)
-
-1. **Bases Python & Docker**
-2. **Bases de données**
-   - MongoDb
-   - SQL
-   - snowflake
-3. **Transformation de données**
-   - Dbt
-   - DltHub
-4. **Big Data**
-   - Azure/Databricks
-   - Azure/Hadoop
-5. **Projets data**
-   - NYC Taxi Pipeline
-   - Data Quality
+4.  **Cloud & Industrialisation (Semaines 11+)**
+    - Déploiement sur Azure/GCP (`04-Cloud-Platforms`).
+    - Mise en place de pipelines CI/CD et monitoring (`07-DevOps`).
 
 ## Contribution
 
-Ce repository est maintenu pour les formations Simplon. Pour toute suggestion :
-
-1. Ouvrir une issue pour discuter du changement
-2. Fork le projet
-3. Créer une branche (`git checkout -b feature/amelioration`)
-4. Commit avec convention ([voir guide](/.github/SEMANTIC_RELEASE.md))
-5. Push et créer une Pull Request
-
-### Convention de commits
-
-Ce projet utilise **Semantic Release**. Format des commits :
-
-```
-<type>(<scope>): <description>
-
-Types: feat, fix, docs, style, refactor, test, chore
-Scopes: terraform, docker, kubernetes, dbt, etc.
-```
-
-Exemples :
-```bash
-feat(kubernetes): ajout cours sur les StatefulSets
-fix(terraform): correction configuration Azure provider
-docs(readme): mise à jour installation
-```
-
-Voir le guide complet : [SEMANTIC_RELEASE.md](.github/SEMANTIC_RELEASE.md)
-
-## Releases
-
-Les releases sont automatiquement créées et documentées dans [CHANGELOG.md](CHANGELOG.md).
-
-Dernières releases : https://github.com/VOTRE_USERNAME/Formation/releases
+Les contributions sont les bienvenues !
+Veuillez suivre les bonnes pratiques définies dans `01-Fondamentaux/Bonne pratique`.
 
 ## Support
 
-### Documentation officielle
-
-Chaque module contient ses propres références vers la documentation officielle.
-
-### Ressources utiles
-
-- [Terraform Docs](https://www.terraform.io/docs)
-- [Kubernetes Docs](https://kubernetes.io/docs)
-- [Azure Docs](https://docs.microsoft.com/azure/)
-- [Snowflake Docs](https://docs.snowflake.com/)
-- [Dbt Docs](https://docs.getdbt.com/)
-
-### Aide
-
-- Ouvrir une issue pour les bugs ou questions
-- Consulter les README de chaque module
-- Contacter votre formateur Simplon
-
-## Statistiques
-
-- **13 technologies** couvertes
-- **80+ modules** de cours
-- **10+ projets** pratiques
-- **4 datasets** réels inclus
-- **Mises à jour** régulières
-
-## Licence
-
-Ce contenu est destiné à un usage pédagogique dans le cadre des formations Simplon.
-
----
-
-**Simplon Formation** - Apprenez par la pratique, formez-vous aux métiers du numérique
-
-Bonne formation ! 🚀
+Pour toute question technique, référez-vous d'abord à la documentation officielle des outils, puis aux README spécifiques de chaque module.
