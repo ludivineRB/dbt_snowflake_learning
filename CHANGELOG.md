@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.0.0...v2.1.0) (2026-02-08)
+
+
+### Features
+
+* **Data Warehouse:** Update cours Data Warehouse ([55464ee](https://github.com/gsoulat/formation-data-engineer/commit/55464ee9627b87b81fd6b2adefcbe17bcaffd982))
+
 # [2.0.0](https://github.com/gsoulat/formation-data-engineer/compare/v1.4.1...v2.0.0) (2026-02-03)
 
 
