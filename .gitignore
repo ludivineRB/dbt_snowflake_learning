@@ -22,8 +22,6 @@ terraform.rc
 
 .venv
 
-10-Large-Language-Model/
-
 gcp.pub
 
 *.pyc
