@@ -84,5 +84,3 @@ wheels/
 .env.local
 .env.*.local
 10-Large-Language-Model/LLM
-
-Linux/
