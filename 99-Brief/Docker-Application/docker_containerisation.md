@@ -1,4 +1,4 @@
-# Brief Projet Data Engineering - Formation Simplon
+# Brief Projet Data Engineering
 ## Conteneurisation d'Application avec Docker
 
 ---
@@ -269,4 +269,4 @@ docker push username/mon-app:v1
 
 ---
 
-*Brief Docker pour Data Engineering - Formation Simplon 2024*
+*Brief Docker pour Data Engineering - 2024*

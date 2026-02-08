@@ -288,7 +288,7 @@ Pour toute question ou suggestion d'amélioration :
 
 ## Licence et utilisation
 
-Ce cours est fourni à des fins éducatives dans le cadre de la formation Simplon.
+Ce cours est fourni à des fins éducatives.
 
 ---
 

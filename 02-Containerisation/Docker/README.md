@@ -34,4 +34,4 @@ Orchestrer des applications multi-conteneurs de manière déclarative.
 Optimisation, sécurité, maintenance et bonnes pratiques de production.
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

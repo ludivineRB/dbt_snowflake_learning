@@ -61,4 +61,4 @@ Le SQL est la langue universelle de la donnée. Que vous utilisiez PostgreSQL, S
 Pour suivre ce cours, nous utiliserons principalement **PostgreSQL** ou **DuckDB** (facile à installer localement), mais la syntaxe est compatible avec la majorité des standards SQL ANSI.
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

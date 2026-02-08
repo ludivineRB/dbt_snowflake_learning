@@ -45,4 +45,4 @@ Projet complet simulant un environnement réel de Data Engineering.
 Corrigés détaillés des exercices et du projet.
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

@@ -602,4 +602,4 @@ En cas de blocage :
 
 ---
 
-*Brief créé pour la formation Data Engineering - Simplon - 2025*
+*Brief créé pour la formation Data Engineering - 2025*

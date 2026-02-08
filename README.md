@@ -22,6 +22,20 @@ L'objectif n’est pas de tout faire, mais de suivre un parcours clair et progre
 
 ---
 
+## 🗺️ Roadmap Technique
+
+![Feuille de route](images/feuille_de_route.png)
+
+📄 [Télécharger la Roadmap Technique complète (PDF)](docs/Plaftforme_Data_Cloud_IA_Roadmap_Technique.pdf)
+
+---
+
+## 📺 Présentation de la Formation
+
+[![Présentation Formation](https://img.youtube.com/vi/Y1Rt88lupRI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y1Rt88lupRI)
+
+---
+
 ## 🏗️ Structure du repository
 
 ```

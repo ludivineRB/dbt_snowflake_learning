@@ -152,4 +152,4 @@ Formation MongoDB complète divisée en 7 modules progressifs pour apprendre Mon
 
 ---
 
-**Formation créée pour Simplon - 2024**
+**Formation Data Engineer - 2024**

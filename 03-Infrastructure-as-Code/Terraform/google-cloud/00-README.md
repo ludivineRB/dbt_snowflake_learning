@@ -32,4 +32,4 @@ Pour des explications approfondies, consultez les guides suivants :
 15. [15 - Cloud Run (Serverless Containers)](theorie/15-cloud-run.md)
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer
