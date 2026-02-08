@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.2.0...v2.3.0) (2026-02-08)
+
+
+### Features
+
+* **Parcours:** Ajout des parcours de formation ([4bf555c](https://github.com/gsoulat/formation-data-engineer/commit/4bf555c3f202c3d0c38b586637e398eea1f57766))
+
 # [2.2.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.1.3...v2.2.0) (2026-02-08)
 
 
