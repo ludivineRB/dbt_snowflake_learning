@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.4.0...v2.5.0) (2026-02-08)
+
+
+### Features
+
+* **Contenairisation:** Update du cours Containerisation ([4f679d1](https://github.com/gsoulat/formation-data-engineer/commit/4f679d17454c68cd71dcb497ecffad61b0a85ff3))
+
 # [2.4.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.3.0...v2.4.0) (2026-02-08)
 
 
