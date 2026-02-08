@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.6.0...v2.7.0) (2026-02-08)
+
+
+### Features
+
+* **Linux:** Ajout du cours Linux ([cc42182](https://github.com/gsoulat/formation-data-engineer/commit/cc42182ad8ad9e82517246a529908e208d7fe3a4))
+
 # [2.6.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.5.0...v2.6.0) (2026-02-08)
 
 
