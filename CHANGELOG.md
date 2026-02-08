@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.5.0...v2.6.0) (2026-02-08)
+
+
+### Features
+
+* **Python:** Ajout du cours Python ([5315a11](https://github.com/gsoulat/formation-data-engineer/commit/5315a11732a2a230216a1c309859925aaaeb2459))
+
 # [2.5.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.4.0...v2.5.0) (2026-02-08)
 
 
