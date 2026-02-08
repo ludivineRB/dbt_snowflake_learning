@@ -85,5 +85,6 @@ wheels/
 .env.*.local
 10-Large-Language-Model/LLM
 
-SQL/
 Gitlab/
+Python/
+Linux/
