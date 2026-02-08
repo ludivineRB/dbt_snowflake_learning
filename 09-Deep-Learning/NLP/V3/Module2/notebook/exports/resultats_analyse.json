@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.721,
+  "nombre_documents": 1000,
+  "taille_vocabulaire": 246,
+  "temps_par_document_ms": 0.0321197509765625
+}

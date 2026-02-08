@@ -1,0 +1,21 @@
+commentaire,sentiment,sentiment_predit,score_sentiment
+5  étoiles  !  Installation  facile  et  fonctionne  parfaitement,positif,neutre,0.0
+5 étoiles ! Installation facile et fonctionne parfaitement,positif,neutre,0.0
+Décevant... J'attendais mieux pour ce prix 😤 http://example.com,negatif,negatif,-0.2
+Satisfait mais sans plus. Prix un peu élevé #soldes,neutre,positif,0.25
+"Produit de qualité, livraison en 24h. Que demander de plus ?",positif,neutre,0.0
+Attention  FAKE  !  Ce  n'est  pas  le  produit  original,negatif,negatif,-0.3333333333333333
+Problème  dès  la  première  utilisation.  SAV  injoignable,negatif,negatif,-0.14285714285714285
+"Produit correct, sans plus. Fait le job",neutre,neutre,0.0
+"Ça va, conforme mais rien d'exceptionnel www.techshop.fr/promo #soldes",neutre,positif,0.2
+Problème  dès  la  première  utilisation.  SAV  injoignable  #promo,negatif,negatif,-0.14285714285714285
+Nickel ! Conforme à la description et arrivé rapidement,positif,positif,0.3333333333333333
+Nul  !  Tombé  en  panne  après  2  semaines...  Je  déconseille  #hightech,negatif,negatif,-0.2222222222222222
+TOP ! Correspond parfaitement à mes attentes 😊 #tech,positif,positif,0.3333333333333333
+J'ADORE !!! Exactement ce que je cherchais. Merci TechShop (383€),positif,neutre,0.0
+Déçu... Le produit ne correspond pas du tout à la description 😞 (196€),negatif,negatif,-0.1111111111111111
+Bof bof... Qualité moyenne et prix trop élevé http://example.com,negatif,neutre,0.0
+Super produit !!! Je le recommande à 100% 👍,positif,positif,0.3333333333333333
+Livraison en retard et produit défectueux. Service client inexistant,negatif,negatif,-0.25
+Problème dès la première utilisation. SAV injoignable #hightech,negatif,negatif,-0.14285714285714285
+Super produit !!! Je le recommande à 100% 👍,positif,positif,0.3333333333333333

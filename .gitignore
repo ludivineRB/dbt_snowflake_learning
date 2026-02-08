@@ -22,14 +22,12 @@ terraform.rc
 
 .venv
 
-
-09-Deep-Learning/
 10-Large-Language-Model/
 
 gcp.pub
 
 *.pyc
-
+*.pth
 
 .DS_Store
 .env

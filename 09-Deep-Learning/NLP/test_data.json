@@ -1,0 +1,2327 @@
+[
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Irlande ?",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Quelle ville est la capitale de Sénégal ?",
+    "label": "Dakar",
+    "country": "Sénégal"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Capital du Autriche ?",
+    "label": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Islande ?",
+    "label": "Reykjavik",
+    "country": "Islande"
+  },
+  {
+    "text": "Quelle ville est la capitale de Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Quelle est la capitale du États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Uruguay ?",
+    "label": "Montevideo",
+    "country": "Uruguay"
+  },
+  {
+    "text": "Où se situe la capitale du Israël ?",
+    "label": "Jérusalem",
+    "country": "Israël"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Bangladesh - capitale ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Quelle ville est la capitale du Arabie saoudite ?",
+    "label": "Riyad",
+    "country": "Arabie saoudite"
+  },
+  {
+    "text": "Quelle est la capitale du Islande ?",
+    "label": "Reykjavik",
+    "country": "Islande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Koweït ?",
+    "label": "Koweït",
+    "country": "Koweït"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Venezuela ?",
+    "label": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Côte d'Ivoire ?",
+    "label": "Yamoussoukro",
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "text": "Norvège capitale ?",
+    "label": "Oslo",
+    "country": "Norvège"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Indonésie ?",
+    "label": "Jakarta",
+    "country": "Indonésie"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Bulgarie ?",
+    "label": "Sofia",
+    "country": "Bulgarie"
+  },
+  {
+    "text": "Quelle est la capitale de la Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Bulgarie ?",
+    "label": "Sofia",
+    "country": "Bulgarie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Iran ?",
+    "label": "Téhéran",
+    "country": "Iran"
+  },
+  {
+    "text": "Où se situe la capitale de la Pays-Bas ?",
+    "label": "Amsterdam",
+    "country": "Pays-Bas"
+  },
+  {
+    "text": "Capital de la Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Capital de la Malte ?",
+    "label": "La Valette",
+    "country": "Malte"
+  },
+  {
+    "text": "Roumanie capitale ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Tanzanie ?",
+    "label": "Dodoma",
+    "country": "Tanzanie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Croatie ?",
+    "label": "Zagreb",
+    "country": "Croatie"
+  },
+  {
+    "text": "Quelle est la capitale de la Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Venezuela - capitale ?",
+    "label": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "text": "Quelle est la capitale de Islande ?",
+    "label": "Reykjavik",
+    "country": "Islande"
+  },
+  {
+    "text": "Capital de la Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Capital de Mexique ?",
+    "label": "Mexico",
+    "country": "Mexique"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Jordanie ?",
+    "label": "Amman",
+    "country": "Jordanie"
+  },
+  {
+    "text": "Capitale Bangladesh",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Capital de Pologne ?",
+    "label": "Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Belgique ?",
+    "label": "Bruxelles",
+    "country": "Belgique"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Ghana ?",
+    "label": "Accra",
+    "country": "Ghana"
+  },
+  {
+    "text": "Capital du Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Capital de Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Serbie ?",
+    "label": "Belgrade",
+    "country": "Serbie"
+  },
+  {
+    "text": "Où se situe la capitale du Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Nigeria ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Tunisie ?",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Pakistan ?",
+    "label": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Bangladesh ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Quelle ville est la capitale de Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Quelle est la capitale de Libye ?",
+    "label": "Tripoli",
+    "country": "Libye"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Luxembourg ?",
+    "label": "Luxembourg",
+    "country": "Luxembourg"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Roumanie - capitale ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Bulgarie ?",
+    "label": "Sofia",
+    "country": "Bulgarie"
+  },
+  {
+    "text": "Où se situe la capitale de la Belgique ?",
+    "label": "Bruxelles",
+    "country": "Belgique"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Finlande capitale ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Nigeria ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Royaume-Uni ?",
+    "label": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Jamaïque ?",
+    "label": "Kingston",
+    "country": "Jamaïque"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Slovaquie ?",
+    "label": "Bratislava",
+    "country": "Slovaquie"
+  },
+  {
+    "text": "Capital du Uruguay ?",
+    "label": "Montevideo",
+    "country": "Uruguay"
+  },
+  {
+    "text": "Capitale Afrique du Sud",
+    "label": "Pretoria",
+    "country": "Afrique du Sud"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Afrique du Sud ?",
+    "label": "Pretoria",
+    "country": "Afrique du Sud"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Bangladesh ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Capital de la Corée du Sud ?",
+    "label": "Séoul",
+    "country": "Corée du Sud"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Bolivie ?",
+    "label": "La Paz",
+    "country": "Bolivie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Suède ?",
+    "label": "Stockholm",
+    "country": "Suède"
+  },
+  {
+    "text": "Quelle est la capitale de Suède ?",
+    "label": "Stockholm",
+    "country": "Suède"
+  },
+  {
+    "text": "Où se situe la capitale du Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Iran ?",
+    "label": "Téhéran",
+    "country": "Iran"
+  },
+  {
+    "text": "Où se situe la capitale de Koweït ?",
+    "label": "Koweït",
+    "country": "Koweït"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Pologne ?",
+    "label": "Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "text": "Liban capitale ?",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Égypte - capitale ?",
+    "label": "Le Caire",
+    "country": "Égypte"
+  },
+  {
+    "text": "Espagne - capitale ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Israël ?",
+    "label": "Jérusalem",
+    "country": "Israël"
+  },
+  {
+    "text": "Où se situe la capitale du Serbie ?",
+    "label": "Belgrade",
+    "country": "Serbie"
+  },
+  {
+    "text": "Quelle est la capitale de Australie ?",
+    "label": "Canberra",
+    "country": "Australie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Serbie ?",
+    "label": "Belgrade",
+    "country": "Serbie"
+  },
+  {
+    "text": "Où se situe la capitale du Italie ?",
+    "label": "Rome",
+    "country": "Italie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Sénégal ?",
+    "label": "Dakar",
+    "country": "Sénégal"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Chine ?",
+    "label": "Pékin",
+    "country": "Chine"
+  },
+  {
+    "text": "Où se situe la capitale de la Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Roumanie ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Jamaïque capitale ?",
+    "label": "Kingston",
+    "country": "Jamaïque"
+  },
+  {
+    "text": "Capital de Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Sénégal capitale ?",
+    "label": "Dakar",
+    "country": "Sénégal"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Irlande ?",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Jordanie ?",
+    "label": "Amman",
+    "country": "Jordanie"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Pologne ?",
+    "label": "Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Chine ?",
+    "label": "Pékin",
+    "country": "Chine"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Malte ?",
+    "label": "La Valette",
+    "country": "Malte"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Bolivie ?",
+    "label": "La Paz",
+    "country": "Bolivie"
+  },
+  {
+    "text": "Où se situe la capitale de la Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Jamaïque ?",
+    "label": "Kingston",
+    "country": "Jamaïque"
+  },
+  {
+    "text": "Capital de Philippines ?",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Malaisie ?",
+    "label": "Kuala Lumpur",
+    "country": "Malaisie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Turquie ?",
+    "label": "Ankara",
+    "country": "Turquie"
+  },
+  {
+    "text": "Quelle est la capitale du Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Quelle ville est la capitale du Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Où se situe la capitale de la Jordanie ?",
+    "label": "Amman",
+    "country": "Jordanie"
+  },
+  {
+    "text": "Quelle est la capitale de la Algérie ?",
+    "label": "Alger",
+    "country": "Algérie"
+  },
+  {
+    "text": "Quelle est la capitale de la Ghana ?",
+    "label": "Accra",
+    "country": "Ghana"
+  },
+  {
+    "text": "Portugal capitale ?",
+    "label": "Lisbonne",
+    "country": "Portugal"
+  },
+  {
+    "text": "Capitale Zimbabwe",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Quelle est la capitale de Irlande ?",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Suisse ?",
+    "label": "Berne",
+    "country": "Suisse"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Où se situe la capitale du France ?",
+    "label": "Paris",
+    "country": "France"
+  },
+  {
+    "text": "Quelle ville est la capitale de Philippines ?",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Uruguay ?",
+    "label": "Montevideo",
+    "country": "Uruguay"
+  },
+  {
+    "text": "Quelle ville est la capitale du Égypte ?",
+    "label": "Le Caire",
+    "country": "Égypte"
+  },
+  {
+    "text": "Quelle ville est la capitale du Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Où se situe la capitale de Liban ?",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Capital du Afrique du Sud ?",
+    "label": "Pretoria",
+    "country": "Afrique du Sud"
+  },
+  {
+    "text": "Israël capitale ?",
+    "label": "Jérusalem",
+    "country": "Israël"
+  },
+  {
+    "text": "Quelle est la capitale de la Irak ?",
+    "label": "Bagdad",
+    "country": "Irak"
+  },
+  {
+    "text": "Quelle ville est la capitale du Royaume-Uni ?",
+    "label": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Irak ?",
+    "label": "Bagdad",
+    "country": "Irak"
+  },
+  {
+    "text": "Quelle est la capitale de Algérie ?",
+    "label": "Alger",
+    "country": "Algérie"
+  },
+  {
+    "text": "Quelle est la capitale de la Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Quelle ville est la capitale de Chypre ?",
+    "label": "Nicosie",
+    "country": "Chypre"
+  },
+  {
+    "text": "Quelle est la capitale de la Colombie ?",
+    "label": "Bogota",
+    "country": "Colombie"
+  },
+  {
+    "text": "Qatar - capitale ?",
+    "label": "Doha",
+    "country": "Qatar"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Algérie - capitale ?",
+    "label": "Alger",
+    "country": "Algérie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Norvège ?",
+    "label": "Oslo",
+    "country": "Norvège"
+  },
+  {
+    "text": "Capital de la Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Australie ?",
+    "label": "Canberra",
+    "country": "Australie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Liban ?",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Pakistan - capitale ?",
+    "label": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Croatie ?",
+    "label": "Zagreb",
+    "country": "Croatie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Indonésie ?",
+    "label": "Jakarta",
+    "country": "Indonésie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Italie ?",
+    "label": "Rome",
+    "country": "Italie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Malte ?",
+    "label": "La Valette",
+    "country": "Malte"
+  },
+  {
+    "text": "Où se situe la capitale de Pérou ?",
+    "label": "Lima",
+    "country": "Pérou"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Irlande ?",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Où se situe la capitale de Royaume-Uni ?",
+    "label": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Capital de la Indonésie ?",
+    "label": "Jakarta",
+    "country": "Indonésie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Israël ?",
+    "label": "Jérusalem",
+    "country": "Israël"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Portugal ?",
+    "label": "Lisbonne",
+    "country": "Portugal"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Pakistan ?",
+    "label": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "text": "Où se situe la capitale de Égypte ?",
+    "label": "Le Caire",
+    "country": "Égypte"
+  },
+  {
+    "text": "Où se situe la capitale du Venezuela ?",
+    "label": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Où se situe la capitale du Irak ?",
+    "label": "Bagdad",
+    "country": "Irak"
+  },
+  {
+    "text": "Tunisie - capitale ?",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Iran ?",
+    "label": "Téhéran",
+    "country": "Iran"
+  },
+  {
+    "text": "Quelle est la capitale de la Tanzanie ?",
+    "label": "Dodoma",
+    "country": "Tanzanie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Bulgarie ?",
+    "label": "Sofia",
+    "country": "Bulgarie"
+  },
+  {
+    "text": "Capital de Indonésie ?",
+    "label": "Jakarta",
+    "country": "Indonésie"
+  },
+  {
+    "text": "Où se situe la capitale de la Côte d'Ivoire ?",
+    "label": "Yamoussoukro",
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "text": "Australie capitale ?",
+    "label": "Canberra",
+    "country": "Australie"
+  },
+  {
+    "text": "Quelle est la capitale du Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Capital de la Italie ?",
+    "label": "Rome",
+    "country": "Italie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Chypre ?",
+    "label": "Nicosie",
+    "country": "Chypre"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Slovaquie ?",
+    "label": "Bratislava",
+    "country": "Slovaquie"
+  },
+  {
+    "text": "Capital du Philippines ?",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Où se situe la capitale de la Arabie saoudite ?",
+    "label": "Riyad",
+    "country": "Arabie saoudite"
+  },
+  {
+    "text": "Capital du Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Quelle ville est la capitale du Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Quelle est la capitale de Sénégal ?",
+    "label": "Dakar",
+    "country": "Sénégal"
+  },
+  {
+    "text": "Où se situe la capitale de la France ?",
+    "label": "Paris",
+    "country": "France"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Capitale Kenya",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Capital du Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Capital de la Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Où se situe la capitale du Luxembourg ?",
+    "label": "Luxembourg",
+    "country": "Luxembourg"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Allemagne ?",
+    "label": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Où se situe la capitale de Belgique ?",
+    "label": "Bruxelles",
+    "country": "Belgique"
+  },
+  {
+    "text": "Quelle ville est la capitale du Cuba ?",
+    "label": "La Havane",
+    "country": "Cuba"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Éthiopie ?",
+    "label": "Addis-Abeba",
+    "country": "Éthiopie"
+  },
+  {
+    "text": "Capital de la Allemagne ?",
+    "label": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Pérou ?",
+    "label": "Lima",
+    "country": "Pérou"
+  },
+  {
+    "text": "Quelle est la capitale de la Chypre ?",
+    "label": "Nicosie",
+    "country": "Chypre"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Chypre ?",
+    "label": "Nicosie",
+    "country": "Chypre"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Quelle est la capitale de la Singapour ?",
+    "label": "Singapour",
+    "country": "Singapour"
+  },
+  {
+    "text": "Ukraine - capitale ?",
+    "label": "Kiev",
+    "country": "Ukraine"
+  },
+  {
+    "text": "Quelle est la capitale de Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Éthiopie - capitale ?",
+    "label": "Addis-Abeba",
+    "country": "Éthiopie"
+  },
+  {
+    "text": "Où se situe la capitale du Liban ?",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Libye ?",
+    "label": "Tripoli",
+    "country": "Libye"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la République tchèque ?",
+    "label": "Prague",
+    "country": "République tchèque"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Hongrie ?",
+    "label": "Budapest",
+    "country": "Hongrie"
+  },
+  {
+    "text": "Quelle est la capitale de Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Capital de la Argentine ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Norvège ?",
+    "label": "Oslo",
+    "country": "Norvège"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Capital de Portugal ?",
+    "label": "Lisbonne",
+    "country": "Portugal"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Pakistan ?",
+    "label": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Suède ?",
+    "label": "Stockholm",
+    "country": "Suède"
+  },
+  {
+    "text": "Quelle ville est la capitale de Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Vietnam ?",
+    "label": "Hanoï",
+    "country": "Vietnam"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Éthiopie ?",
+    "label": "Addis-Abeba",
+    "country": "Éthiopie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Cuba ?",
+    "label": "La Havane",
+    "country": "Cuba"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Argentine ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Venezuela ?",
+    "label": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Israël ?",
+    "label": "Jérusalem",
+    "country": "Israël"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Roumanie ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Capital du Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Suisse - capitale ?",
+    "label": "Berne",
+    "country": "Suisse"
+  },
+  {
+    "text": "Quelle ville est la capitale de République tchèque ?",
+    "label": "Prague",
+    "country": "République tchèque"
+  },
+  {
+    "text": "Égypte capitale ?",
+    "label": "Le Caire",
+    "country": "Égypte"
+  },
+  {
+    "text": "Capital de la Venezuela ?",
+    "label": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "text": "Quelle est la capitale de Liban ?",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Allemagne capitale ?",
+    "label": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "text": "Où se situe la capitale de Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Nigeria ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Jamaïque ?",
+    "label": "Kingston",
+    "country": "Jamaïque"
+  },
+  {
+    "text": "Capital de la Qatar ?",
+    "label": "Doha",
+    "country": "Qatar"
+  },
+  {
+    "text": "Capital de la Grèce ?",
+    "label": "Athènes",
+    "country": "Grèce"
+  },
+  {
+    "text": "Quelle est la capitale de Colombie ?",
+    "label": "Bogota",
+    "country": "Colombie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Arabie saoudite ?",
+    "label": "Riyad",
+    "country": "Arabie saoudite"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Pays-Bas ?",
+    "label": "Amsterdam",
+    "country": "Pays-Bas"
+  },
+  {
+    "text": "Quelle est la capitale de la Corée du Sud ?",
+    "label": "Séoul",
+    "country": "Corée du Sud"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Paraguay ?",
+    "label": "Asunción",
+    "country": "Paraguay"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Arabie saoudite ?",
+    "label": "Riyad",
+    "country": "Arabie saoudite"
+  },
+  {
+    "text": "Capitale Tunisie",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Vietnam ?",
+    "label": "Hanoï",
+    "country": "Vietnam"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Arabie saoudite ?",
+    "label": "Riyad",
+    "country": "Arabie saoudite"
+  },
+  {
+    "text": "Capital du Tanzanie ?",
+    "label": "Dodoma",
+    "country": "Tanzanie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Où se situe la capitale du Côte d'Ivoire ?",
+    "label": "Yamoussoukro",
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Chypre ?",
+    "label": "Nicosie",
+    "country": "Chypre"
+  },
+  {
+    "text": "Nigeria - capitale ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Quelle est la capitale de Malaisie ?",
+    "label": "Kuala Lumpur",
+    "country": "Malaisie"
+  },
+  {
+    "text": "Capitale Ukraine",
+    "label": "Kiev",
+    "country": "Ukraine"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Quelle est la capitale du Qatar ?",
+    "label": "Doha",
+    "country": "Qatar"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Mexique ?",
+    "label": "Mexico",
+    "country": "Mexique"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Italie ?",
+    "label": "Rome",
+    "country": "Italie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Philippines ?",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Ukraine ?",
+    "label": "Kiev",
+    "country": "Ukraine"
+  },
+  {
+    "text": "Où se situe la capitale de la Royaume-Uni ?",
+    "label": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "text": "Capital de la Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Tanzanie ?",
+    "label": "Dodoma",
+    "country": "Tanzanie"
+  },
+  {
+    "text": "Capital de la Turquie ?",
+    "label": "Ankara",
+    "country": "Turquie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Bangladesh ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Quelle ville est la capitale de Malte ?",
+    "label": "La Valette",
+    "country": "Malte"
+  },
+  {
+    "text": "Où se situe la capitale de Luxembourg ?",
+    "label": "Luxembourg",
+    "country": "Luxembourg"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Bangladesh ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Quelle est la capitale de Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Quelle est la capitale du Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Ouganda ?",
+    "label": "Kampala",
+    "country": "Ouganda"
+  },
+  {
+    "text": "Capitale Venezuela",
+    "label": "Caracas",
+    "country": "Venezuela"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Ukraine ?",
+    "label": "Kiev",
+    "country": "Ukraine"
+  },
+  {
+    "text": "Quelle ville est la capitale de Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Colombie - capitale ?",
+    "label": "Bogota",
+    "country": "Colombie"
+  },
+  {
+    "text": "Où se situe la capitale du Suède ?",
+    "label": "Stockholm",
+    "country": "Suède"
+  },
+  {
+    "text": "Où se situe la capitale du Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Quelle est la capitale de Cuba ?",
+    "label": "La Havane",
+    "country": "Cuba"
+  },
+  {
+    "text": "Où se situe la capitale de Vietnam ?",
+    "label": "Hanoï",
+    "country": "Vietnam"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Pologne ?",
+    "label": "Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "text": "Quelle est la capitale du Argentine ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Quelle ville est la capitale de la France ?",
+    "label": "Paris",
+    "country": "France"
+  },
+  {
+    "text": "Quelle est la capitale du Corée du Sud ?",
+    "label": "Séoul",
+    "country": "Corée du Sud"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Éthiopie ?",
+    "label": "Addis-Abeba",
+    "country": "Éthiopie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Canada ?",
+    "label": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Chine ?",
+    "label": "Pékin",
+    "country": "Chine"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Turquie ?",
+    "label": "Ankara",
+    "country": "Turquie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Portugal ?",
+    "label": "Lisbonne",
+    "country": "Portugal"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Allemagne ?",
+    "label": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "text": "Capital de la Autriche ?",
+    "label": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "text": "Syrie capitale ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Quelle ville est la capitale du Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Corée du Sud ?",
+    "label": "Séoul",
+    "country": "Corée du Sud"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Vietnam ?",
+    "label": "Hanoï",
+    "country": "Vietnam"
+  },
+  {
+    "text": "Quelle est la capitale de Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Quelle est la capitale de la Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Connaissez-vous la capitale de France ?",
+    "label": "Paris",
+    "country": "France"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Grèce ?",
+    "label": "Athènes",
+    "country": "Grèce"
+  },
+  {
+    "text": "Quelle est la capitale de la Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Koweït ?",
+    "label": "Koweït",
+    "country": "Koweït"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Allemagne ?",
+    "label": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Belgique ?",
+    "label": "Bruxelles",
+    "country": "Belgique"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Égypte ?",
+    "label": "Le Caire",
+    "country": "Égypte"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Koweït ?",
+    "label": "Koweït",
+    "country": "Koweït"
+  },
+  {
+    "text": "Capital de la Irlande ?",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Israël ?",
+    "label": "Jérusalem",
+    "country": "Israël"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Luxembourg ?",
+    "label": "Luxembourg",
+    "country": "Luxembourg"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Jordanie ?",
+    "label": "Amman",
+    "country": "Jordanie"
+  },
+  {
+    "text": "Capital de Roumanie ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Quelle est la capitale de Mexique ?",
+    "label": "Mexico",
+    "country": "Mexique"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Pologne ?",
+    "label": "Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "text": "Capitale Équateur",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Où se situe la capitale de la Ghana ?",
+    "label": "Accra",
+    "country": "Ghana"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Algérie ?",
+    "label": "Alger",
+    "country": "Algérie"
+  },
+  {
+    "text": "Quelle est la capitale de Jordanie ?",
+    "label": "Amman",
+    "country": "Jordanie"
+  },
+  {
+    "text": "Capital de la Croatie ?",
+    "label": "Zagreb",
+    "country": "Croatie"
+  },
+  {
+    "text": "Capital de la Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Danemark ?",
+    "label": "Copenhague",
+    "country": "Danemark"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Afrique du Sud ?",
+    "label": "Pretoria",
+    "country": "Afrique du Sud"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Nigeria ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Quelle ville est la capitale de Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Bolivie ?",
+    "label": "La Paz",
+    "country": "Bolivie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Algérie ?",
+    "label": "Alger",
+    "country": "Algérie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Argentine ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Où se situe la capitale du Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Quelle est la capitale du Bolivie ?",
+    "label": "La Paz",
+    "country": "Bolivie"
+  },
+  {
+    "text": "Où se situe la capitale de la Turquie ?",
+    "label": "Ankara",
+    "country": "Turquie"
+  },
+  {
+    "text": "Capitale Philippines",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Capital de la Danemark ?",
+    "label": "Copenhague",
+    "country": "Danemark"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Grèce ?",
+    "label": "Athènes",
+    "country": "Grèce"
+  },
+  {
+    "text": "Capital de Bangladesh ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Autriche ?",
+    "label": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "text": "Où se situe la capitale de Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Slovaquie ?",
+    "label": "Bratislava",
+    "country": "Slovaquie"
+  },
+  {
+    "text": "Quelle est la capitale de Ouganda ?",
+    "label": "Kampala",
+    "country": "Ouganda"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Quelle est la capitale de Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Où se situe la capitale de Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Paraguay ?",
+    "label": "Asunción",
+    "country": "Paraguay"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Islande ?",
+    "label": "Reykjavik",
+    "country": "Islande"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Suisse ?",
+    "label": "Berne",
+    "country": "Suisse"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Argentine - capitale ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Capital de Afrique du Sud ?",
+    "label": "Pretoria",
+    "country": "Afrique du Sud"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Où se situe la capitale de la Slovaquie ?",
+    "label": "Bratislava",
+    "country": "Slovaquie"
+  },
+  {
+    "text": "Quelle ville est la capitale du Pérou ?",
+    "label": "Lima",
+    "country": "Pérou"
+  },
+  {
+    "text": "Quelle est la capitale du Nigeria ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Islande capitale ?",
+    "label": "Reykjavik",
+    "country": "Islande"
+  },
+  {
+    "text": "Capital de la Roumanie ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Quelle est la capitale de la Kenya ?",
+    "label": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Autriche ?",
+    "label": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Zimbabwe ?",
+    "label": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Croatie ?",
+    "label": "Zagreb",
+    "country": "Croatie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Suède ?",
+    "label": "Stockholm",
+    "country": "Suède"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Grèce ?",
+    "label": "Athènes",
+    "country": "Grèce"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Portugal ?",
+    "label": "Lisbonne",
+    "country": "Portugal"
+  },
+  {
+    "text": "Où se situe la capitale de Croatie ?",
+    "label": "Zagreb",
+    "country": "Croatie"
+  },
+  {
+    "text": "Quelle est la capitale de Ghana ?",
+    "label": "Accra",
+    "country": "Ghana"
+  },
+  {
+    "text": "Où se situe la capitale du Tanzanie ?",
+    "label": "Dodoma",
+    "country": "Tanzanie"
+  },
+  {
+    "text": "Où se situe la capitale de Brésil ?",
+    "label": "Brasilia",
+    "country": "Brésil"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Slovaquie ?",
+    "label": "Bratislava",
+    "country": "Slovaquie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Norvège ?",
+    "label": "Oslo",
+    "country": "Norvège"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Irak ?",
+    "label": "Bagdad",
+    "country": "Irak"
+  },
+  {
+    "text": "Capitale Colombie",
+    "label": "Bogota",
+    "country": "Colombie"
+  },
+  {
+    "text": "Où se situe la capitale du Corée du Sud ?",
+    "label": "Séoul",
+    "country": "Corée du Sud"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Indonésie ?",
+    "label": "Jakarta",
+    "country": "Indonésie"
+  },
+  {
+    "text": "Où se situe la capitale de Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Tunisie ?",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Quelle ville est la capitale du Croatie ?",
+    "label": "Zagreb",
+    "country": "Croatie"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Chine ?",
+    "label": "Pékin",
+    "country": "Chine"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Pologne ?",
+    "label": "Varsovie",
+    "country": "Pologne"
+  },
+  {
+    "text": "Quelle ville est la capitale de Nigeria ?",
+    "label": "Abuja",
+    "country": "Nigeria"
+  },
+  {
+    "text": "Quelle est la capitale de la Malaisie ?",
+    "label": "Kuala Lumpur",
+    "country": "Malaisie"
+  },
+  {
+    "text": "Capital de la Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Capital de États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Quelle ville est la capitale de la Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Quelle ville est la capitale du Iran ?",
+    "label": "Téhéran",
+    "country": "Iran"
+  },
+  {
+    "text": "Capitale Libye",
+    "label": "Tripoli",
+    "country": "Libye"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Philippines ?",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Capitale Irak",
+    "label": "Bagdad",
+    "country": "Irak"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Bulgarie ?",
+    "label": "Sofia",
+    "country": "Bulgarie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Serbie ?",
+    "label": "Belgrade",
+    "country": "Serbie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Bolivie ?",
+    "label": "La Paz",
+    "country": "Bolivie"
+  },
+  {
+    "text": "Capital de Japon ?",
+    "label": "Tokyo",
+    "country": "Japon"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Capital de la Éthiopie ?",
+    "label": "Addis-Abeba",
+    "country": "Éthiopie"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Côte d'Ivoire ?",
+    "label": "Yamoussoukro",
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "text": "Capital de la Syrie ?",
+    "label": "Damas",
+    "country": "Syrie"
+  },
+  {
+    "text": "Quelle est la capitale de Inde ?",
+    "label": "New Delhi",
+    "country": "Inde"
+  },
+  {
+    "text": "Quelle est la capitale de la Argentine ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Autriche ?",
+    "label": "Vienne",
+    "country": "Autriche"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement du Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Norvège - capitale ?",
+    "label": "Oslo",
+    "country": "Norvège"
+  },
+  {
+    "text": "Où se situe la capitale de la Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Royaume-Uni ?",
+    "label": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "text": "Quelle est la capitale de Tunisie ?",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Vietnam ?",
+    "label": "Hanoï",
+    "country": "Vietnam"
+  },
+  {
+    "text": "Quelle ville est la capitale du Bangladesh ?",
+    "label": "Dacca",
+    "country": "Bangladesh"
+  },
+  {
+    "text": "Quelle ville est la capitale du Norvège ?",
+    "label": "Oslo",
+    "country": "Norvège"
+  },
+  {
+    "text": "Où se situe la capitale de États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Chine ?",
+    "label": "Pékin",
+    "country": "Chine"
+  },
+  {
+    "text": "Quelle est la capitale du Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Liban ?",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Koweït - capitale ?",
+    "label": "Koweït",
+    "country": "Koweït"
+  },
+  {
+    "text": "Quelle est la capitale de la Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Quelle est la capitale du Chine ?",
+    "label": "Pékin",
+    "country": "Chine"
+  },
+  {
+    "text": "Quelle est la capitale du Singapour ?",
+    "label": "Singapour",
+    "country": "Singapour"
+  },
+  {
+    "text": "Capital de la Tunisie ?",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Quelle est la capitale du Grèce ?",
+    "label": "Athènes",
+    "country": "Grèce"
+  },
+  {
+    "text": "Quelle ville est la capitale du Turquie ?",
+    "label": "Ankara",
+    "country": "Turquie"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de la Ghana ?",
+    "label": "Accra",
+    "country": "Ghana"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Belgique ?",
+    "label": "Bruxelles",
+    "country": "Belgique"
+  },
+  {
+    "text": "Corée du Sud - capitale ?",
+    "label": "Séoul",
+    "country": "Corée du Sud"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Russie ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Capitale Irlande",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Quelle est la capitale de la Cameroun ?",
+    "label": "Yaoundé",
+    "country": "Cameroun"
+  },
+  {
+    "text": "Capital de Jamaïque ?",
+    "label": "Kingston",
+    "country": "Jamaïque"
+  },
+  {
+    "text": "Capitale Liban",
+    "label": "Beyrouth",
+    "country": "Liban"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de la Espagne ?",
+    "label": "Madrid",
+    "country": "Espagne"
+  },
+  {
+    "text": "Où se situe la capitale du Maroc ?",
+    "label": "Rabat",
+    "country": "Maroc"
+  },
+  {
+    "text": "Quelle est la capitale de la Iran ?",
+    "label": "Téhéran",
+    "country": "Iran"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de Côte d'Ivoire ?",
+    "label": "Yamoussoukro",
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la Pays-Bas ?",
+    "label": "Amsterdam",
+    "country": "Pays-Bas"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale du Tunisie ?",
+    "label": "Tunis",
+    "country": "Tunisie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de Bolivie ?",
+    "label": "La Paz",
+    "country": "Bolivie"
+  },
+  {
+    "text": "Connaissez-vous la capitale du Royaume-Uni ?",
+    "label": "Londres",
+    "country": "Royaume-Uni"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Suisse ?",
+    "label": "Berne",
+    "country": "Suisse"
+  },
+  {
+    "text": "Quelle ville est la capitale de Jordanie ?",
+    "label": "Amman",
+    "country": "Jordanie"
+  },
+  {
+    "text": "Philippines capitale ?",
+    "label": "Manille",
+    "country": "Philippines"
+  },
+  {
+    "text": "Capital du Nouvelle-Zélande ?",
+    "label": "Wellington",
+    "country": "Nouvelle-Zélande"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de Algérie ?",
+    "label": "Alger",
+    "country": "Algérie"
+  },
+  {
+    "text": "Où se situe la capitale de Irlande ?",
+    "label": "Dublin",
+    "country": "Irlande"
+  },
+  {
+    "text": "Où se situe la capitale de Thaïlande ?",
+    "label": "Bangkok",
+    "country": "Thaïlande"
+  },
+  {
+    "text": "Capital de Équateur ?",
+    "label": "Quito",
+    "country": "Équateur"
+  },
+  {
+    "text": "Où se situe la capitale de la Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Capital de Italie ?",
+    "label": "Rome",
+    "country": "Italie"
+  },
+  {
+    "text": "Connaissez-vous la capitale de la États-Unis ?",
+    "label": "Washington",
+    "country": "États-Unis"
+  },
+  {
+    "text": "Capitale Iran",
+    "label": "Téhéran",
+    "country": "Iran"
+  },
+  {
+    "text": "Quel est le siège du gouvernement de Pakistan ?",
+    "label": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "text": "Quelle ville est la capitale de Émirats arabes unis ?",
+    "label": "Abou Dabi",
+    "country": "Émirats arabes unis"
+  },
+  {
+    "text": "Pouvez-vous me dire la capitale de la Finlande ?",
+    "label": "Helsinki",
+    "country": "Finlande"
+  },
+  {
+    "text": "Dans quelle ville se trouve le gouvernement de France ?",
+    "label": "Paris",
+    "country": "France"
+  },
+  {
+    "text": "Russie capitale ?",
+    "label": "Moscou",
+    "country": "Russie"
+  },
+  {
+    "text": "Capitale Pakistan",
+    "label": "Islamabad",
+    "country": "Pakistan"
+  },
+  {
+    "text": "Capital du Allemagne ?",
+    "label": "Berlin",
+    "country": "Allemagne"
+  },
+  {
+    "text": "Quel est le siège du gouvernement du Roumanie ?",
+    "label": "Bucarest",
+    "country": "Roumanie"
+  },
+  {
+    "text": "Où se situe la capitale de la Argentine ?",
+    "label": "Buenos Aires",
+    "country": "Argentine"
+  },
+  {
+    "text": "Quelle ville est la capitale du Chili ?",
+    "label": "Santiago",
+    "country": "Chili"
+  },
+  {
+    "text": "Quelle est la capitale du Iran ?",
+    "label": "Téhéran",
+    "country": "Iran"
+  }
+]
