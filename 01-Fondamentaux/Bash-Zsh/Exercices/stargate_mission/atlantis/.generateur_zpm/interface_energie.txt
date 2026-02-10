@@ -1,0 +1,8 @@
+=== GENERATEUR ZPM - ATLANTIS ===
+Emplacement ZPM: [VIDE]
+
+En attente d'un Zero Point Module...
+
+Pour inserer un ZPM, completez la mission
+sur la planete P3X-974 et executez le script
+d'activation.

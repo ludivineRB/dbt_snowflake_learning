@@ -1,0 +1,9 @@
+=== COMPARTIMENT SECRET ===
+Un vieux mecanisme Ancien. Il semble relier
+le socle du ZPM a la console d'activation.
+
+Tout a l'air en etat de marche. Il suffit
+d'activer la console pour liberer le ZPM.
+
+La console est dans un autre dossier cache
+du temple_ancien/.

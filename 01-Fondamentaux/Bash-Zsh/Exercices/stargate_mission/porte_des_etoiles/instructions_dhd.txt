@@ -1,0 +1,56 @@
+=============================================
+   DHD - DIAL HOME DEVICE
+   Mode d'emploi pour composer une adresse
+=============================================
+
+Bravo, vous avez trouve les coordonnees de P3X-974 !
+Maintenant, il faut composer l'adresse sur le DHD.
+
+INSTRUCTIONS:
+=============
+
+1) Creez un dossier "sequence_activation" ici
+   (dans porte_des_etoiles/)
+   Commande utile: mkdir
+
+2) Creez 6 fichiers representant les symboles du DHD.
+   Chaque fichier doit contenir un texte PRECIS:
+
+   - Fichier "vortex.txt" contenant:
+     Le vortex est un tunnel subspacial qui connecte deux portes des etoiles a travers la galaxie
+
+   - Fichier "onde.txt" contenant:
+     Les ondes gravitationnelles stabilisent le passage interstellaire
+
+   - Fichier "radiation.txt" contenant:
+     Le naquadah emet des radiations detectables
+
+   - Fichier "transit.txt" contenant:
+     Le transit dure 0.3 secondes
+
+   - Fichier "encodage.txt" contenant:
+     Encodage en cours
+
+   - Fichier "xeno.txt": ce fichier doit etre VIDE
+     (Commande utile: touch)
+
+   Pour creer un fichier avec du contenu:
+     echo "votre texte ici" > nom_du_fichier.txt
+
+3) Deplacez les 6 fichiers dans le dossier "sequence_activation"
+   Commande utile: mv fichier destination/
+
+4) Utilisez la commande "ls -lS" dans sequence_activation/
+   Le -S (majuscule!) trie les fichiers par taille decroissante.
+
+5) Lisez les PREMIERES LETTRES du nom de chaque fichier,
+   dans l'ordre affiche par ls -lS (du plus gros au plus petit).
+
+   Ces lettres forment un mot. Ce mot est votre SECOND MOT DE PASSE.
+   Notez-le bien, vous en aurez besoin a la fin!
+
+=============================================
+   Quand vous avez votre mot de passe,
+   traversez la porte: direction planete_P3X_974/
+   (remontez a la racine de stargate_mission/)
+=============================================

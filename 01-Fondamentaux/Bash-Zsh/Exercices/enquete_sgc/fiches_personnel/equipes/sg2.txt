@@ -1,0 +1,33 @@
+================================================================================
+                    FICHE D'EQUIPE - SG-2
+                    Equipe de combat / appui
+================================================================================
+
+Statut: ACTIVE
+Classification: BETA
+Missions accomplies: 89
+
+--------------------------------------------------------------------------------
+COMPOSITION DE L'EQUIPE
+--------------------------------------------------------------------------------
+
+1. Major GRIFF - Chef d'equipe
+   Badge: SGC-0010
+   Specialite: Operations militaires, reconnaissance
+   Officier experimente. Dirige SG-2 dans les missions d'appui
+   tactique et de reconnaissance avancee. Travaille regulierement
+   en coordination avec SG-1 pour les operations complexes.
+
+2. Capitaine PIERCE - Second
+   Badge: SGC-0011
+   Specialite: Demolition, armement lourd
+   Specialiste en explosifs et en armement. A participe a plusieurs
+   missions de sauvetage en territoire Goa'uld.
+
+3. Lieutenant WARREN - Specialiste
+   Badge: SGC-0012
+   Specialite: Communication, logistique terrain
+   Responsable des communications sur le terrain. Expert en
+   etablissement de camps de base avances.
+
+================================================================================

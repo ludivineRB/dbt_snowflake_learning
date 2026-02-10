@@ -1,0 +1,10 @@
+NORAD - Cheyenne Mountain Complex
+Colorado Springs, Colorado
+
+Bienvenue sur le parking du complexe militaire le plus secret des Etats-Unis.
+A la surface, rien de suspect... juste une montagne.
+
+Mais le vrai SGC se trouve SOUS la montagne, au niveau 28.
+Utilisez "cd" pour descendre dans les profondeurs...
+
+(Indice: retournez dans sgc/ et cherchez le niveau_28)

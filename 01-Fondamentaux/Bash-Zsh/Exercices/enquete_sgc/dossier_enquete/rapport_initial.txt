@@ -1,0 +1,76 @@
+================================================================================
+              RAPPORT D'INCIDENT - STARGATE COMMAND
+================================================================================
+
+Rapport No:       SGC-2024-0315-001
+Date de l'incident: 15 Mars 2024
+Heure:            03:17 (heure locale, Mountain Time)
+Lieu:             Niveau 28 - Salle d'embarquement
+Redige par:       Sergent Walter Harriman
+Classification:   OMEGA
+
+--------------------------------------------------------------------------------
+                        DESCRIPTION DE L'INCIDENT
+--------------------------------------------------------------------------------
+
+A 03h17, le systeme de surveillance automatique a detecte une activation
+non autorisee de la Porte des Etoiles.
+
+Faits constates:
+
+  1. ACTIVATION DE LA PORTE
+     - La Porte des Etoiles s'est activee a 03:17:22
+     - Duree de l'activation: 4 minutes 38 secondes
+     - Adresse composee: INCONNUE (les logs ont ete partiellement effaces)
+     - Aucune equipe SG n'etait planifiee pour un depart
+
+  2. BADGE D'ACCES
+     - Un badge SGC valide a ete utilise pour entrer dans la salle
+       d'embarquement a 03:12:07
+     - Le badge a egalement ete utilise pour acceder a la salle de
+       controle a 03:14:51
+     - Le numero de badge a ete enregistre dans les logs d'acces
+
+  3. CAMERAS DE SECURITE
+     - Les cameras du niveau 28 ont ete desactivees entre 03:00 et 04:00
+     - La desactivation a ete faite depuis un terminal du niveau 21
+     - Aucune image disponible pour la periode concernee
+
+  4. TRANSMISSIONS
+     - Une transmission chiffree de 180 secondes a ete detectee
+       a 03:22:45
+     - Destination: serveur externe non identifie
+     - Protocole de chiffrement inconnu, non standard SGC
+
+  5. TRACES PHYSIQUES
+     - Des traces de pas ont ete relevees dans le couloir du niveau 28
+     - Un badge d'acces modifie a ete retrouve pres du terminal
+       de la salle de controle
+
+--------------------------------------------------------------------------------
+                          ACTIONS PRISES
+--------------------------------------------------------------------------------
+
+  - Alerte de securite declenchee au niveau DEFCON 3
+  - Tous les badges d'acces sont en cours de verification
+  - Les logs des 3 dernieres semaines sont en cours d'extraction
+  - Le General Hammond a ordonne une enquete interne
+
+--------------------------------------------------------------------------------
+                           CONCLUSION
+--------------------------------------------------------------------------------
+
+Il s'agit clairement d'une intrusion planifiee par quelqu'un connaissant
+nos procedures de securite. L'intrus possede un badge SGC valide,
+connait les codes d'activation de la Porte, et sait comment desactiver
+les cameras.
+
+Nous suspectons une taupe au sein du personnel du SGC.
+
+Les logs d'acces, les connexions reseau et les fiches du personnel
+doivent etre analyses de toute urgence.
+
+Sergent Walter Harriman
+Salle de controle - Niveau 28
+
+================================================================================

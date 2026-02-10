@@ -1,0 +1,9 @@
+=== BADGE SGC-0042 ===
+Nom: MAKEPEACE
+Prenom: Robert
+Grade: Colonel
+Equipe: SG-3
+Habilitation: OMEGA
+Acces autorise: Niveaux 21-28, Salle de controle, Salle d'embarquement
+Restriction: Aucune
+Emis le: 1997-06-01

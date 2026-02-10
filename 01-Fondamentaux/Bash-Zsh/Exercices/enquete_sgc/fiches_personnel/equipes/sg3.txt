@@ -1,0 +1,42 @@
+================================================================================
+                    FICHE D'EQUIPE - SG-3
+                    Equipe d'assaut / Marines
+================================================================================
+
+Statut: ACTIVE
+Classification: GAMMA
+Missions accomplies: 112
+
+--------------------------------------------------------------------------------
+COMPOSITION DE L'EQUIPE
+--------------------------------------------------------------------------------
+
+1. Colonel Robert MAKEPEACE - Chef d'equipe
+   Badge: SGC-0042
+   Specialite: Operations speciales Marines, assaut
+   Colonel des Marines americains. Dossier de service impeccable.
+   A dirige de nombreuses operations de sauvetage et d'extraction.
+   Repute pour son efficacite et sa discipline. Commande le respect
+   de ses hommes. Considere comme l'un des meilleurs officiers
+   tactiques du SGC apres le Colonel O'Neill.
+   Note: A brievement commande SG-1 pendant l'absence du Colonel
+   O'Neill. Connait parfaitement les procedures du SGC.
+
+2. Sergent BOSCO - Second
+   Badge: SGC-0043
+   Specialite: Armement, combat rapproche
+   Sous-officier des Marines. Veterain de nombreuses missions
+   off-world. Loyaute totale envers son chef d'equipe.
+
+3. Capitaine Mark JOHNSON - Specialiste
+   Badge: SGC-0044
+   Specialite: Reconnaissance, infiltration
+   Expert en techniques d'infiltration. A participe a des
+   missions derriere les lignes ennemies Goa'uld.
+
+================================================================================
+NOTE ADMINISTRATIVE:
+L'equipe SG-3 est souvent deployee pour des missions d'extraction
+et d'appui aux equipes SG en difficulte. Le Colonel Makepeace a
+acces aux plannings de toutes les equipes SG pour coordination.
+================================================================================

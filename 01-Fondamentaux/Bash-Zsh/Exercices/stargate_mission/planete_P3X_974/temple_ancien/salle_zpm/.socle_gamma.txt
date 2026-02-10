@@ -1,0 +1,13 @@
+=== SOCLE GAMMA ===
+   [ZPM-GAMMA]
+   Status: *** ACTIF ***
+
+Le cristal brille d'une lumiere doree intense !
+C'est un ZPM fonctionnel !
+
+Mais il est verrouille dans son socle. Pour l'extraire,
+vous devez utiliser la console d'activation des Anciens.
+
+La console est cachee quelque part dans le temple.
+Indice: retournez dans temple_ancien/ et cherchez
+un dossier cache (ls -a) contenant la console.

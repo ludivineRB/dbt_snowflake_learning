@@ -1,0 +1,10 @@
+=== SALLE DU CONSEIL DES ANCIENS ===
+Un grand trone se dresse au centre de la salle.
+Il semble fonctionner avec le gene ATA.
+
+Autour du trone, des sieges vides.
+Les Anciens qui siegeaient ici ont disparu
+il y a des millions d'annees.
+
+Le ZPM n'est pas ici. Cherchez la salle dediee
+a l'energie dans le temple.

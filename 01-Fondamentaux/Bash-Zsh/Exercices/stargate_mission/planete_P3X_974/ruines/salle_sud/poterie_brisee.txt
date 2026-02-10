@@ -1,0 +1,7 @@
+=== POTERIE BRISEE ===
+Des fragments de poterie jonchent le sol.
+On dirait de la ceramique Ancienne.
+
+Aucun indice exploitable ici.
+Avez-vous verifie s'il y a des fichiers caches
+dans les ruines ? (ls -a)

@@ -1,0 +1,33 @@
+=== MISSION 1: Nettoyer les donnees des capteurs ===
+Commandes a apprendre: sed, tr
+
+Dr. McKay: "Les capteurs d'Atlantis ont envoye des
+donnees corrompues. Le fichier capteurs_bruts.csv est
+un carnage. Nettoyez-le."
+
+PROBLEMES A CORRIGER:
+1. Les separateurs sont des points-virgules (;) au lieu de virgules (,)
+2. Le mot "ERREUR" apparait dans certaines lignes - supprimez ces lignes
+3. Les temperatures sont en Fahrenheit - convertissez... non, laissez.
+   Juste remplacez "F" par "C" pour l'instant (on fera la conversion plus tard)
+
+COMMANDES UTILES:
+
+  # Remplacer ; par , dans tout le fichier:
+  sed 's/;/,/g' capteurs_bruts.csv
+
+  # Supprimer les lignes contenant ERREUR:
+  sed '/ERREUR/d' capteurs_bruts.csv
+
+  # Enchainer les deux:
+  sed 's/;/,/g' capteurs_bruts.csv | sed '/ERREUR/d'
+
+  # Remplacer F par C:
+  sed 's/F$/C/' fichier
+
+  # Sauvegarder le resultat:
+  sed 's/;/,/g' capteurs_bruts.csv | sed '/ERREUR/d' | sed 's/F$/C/' > capteurs_propres.csv
+
+OBJECTIF:
+Creez le fichier "capteurs_propres.csv" dans CE dossier.
+Puis verifiez: bash verification.sh

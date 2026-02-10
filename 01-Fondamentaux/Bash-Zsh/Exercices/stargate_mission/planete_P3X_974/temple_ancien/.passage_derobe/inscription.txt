@@ -1,0 +1,10 @@
+=== PASSAGE DEROBE ===
+Vous avez trouve un passage secret dans le temple !
+
+Une inscription sur le mur:
+"Praemia non sine labore"
+(Les recompenses ne viennent pas sans effort)
+
+Ce passage mene... nulle part. C'est un cul-de-sac.
+Mais bravo pour l'avoir trouve !
+Continuez a chercher dans le temple.

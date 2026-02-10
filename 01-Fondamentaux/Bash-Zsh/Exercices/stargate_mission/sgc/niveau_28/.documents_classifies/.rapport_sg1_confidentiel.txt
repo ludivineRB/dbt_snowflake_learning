@@ -1,0 +1,15 @@
+=== RAPPORT SG-1 - TOP SECRET ===
+Classification: YEUX DU GENERAL UNIQUEMENT
+Auteur: Colonel Jack O'Neill
+
+"Bon, pour ceux qui lisent ca (et vous n'etes pas censes le faire),
+la planete avec le ZPM est designee P3X-974.
+
+L'adresse de la porte est stockee dans les systemes de la
+salle de controle. Allez voir Walter, il sait tout.
+
+PS: Si quelqu'un touche a mon bureau, je le saurai.
+PPS: Daniel, arrete de lire mes rapports."
+
+(Allez dans la salle_de_controle, toujours au niveau_28.
+Cherchez bien... meme Walter cache des choses.)

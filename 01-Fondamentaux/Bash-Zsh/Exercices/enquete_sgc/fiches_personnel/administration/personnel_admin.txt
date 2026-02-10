@@ -1,0 +1,62 @@
+================================================================================
+                 PERSONNEL ADMINISTRATIF ET TECHNIQUE
+                       Stargate Command
+================================================================================
+
+--------------------------------------------------------------------------------
+COMMANDEMENT
+--------------------------------------------------------------------------------
+
+General George HAMMOND - Commandant du SGC
+  Base permanente - Niveau 27
+  Habilitation: OMEGA
+  Responsable de toutes les operations du SGC.
+
+--------------------------------------------------------------------------------
+PERSONNEL TECHNIQUE
+--------------------------------------------------------------------------------
+
+1. Sergent Walter HARRIMAN
+   Badge: SGC-0200
+   Habilitation: GAMMA
+   Affectation: Salle de controle - Niveau 28
+   Arrive le: 1997-02-14
+   Operateur principal de la Porte des Etoiles. Responsable de la
+   composition des adresses et du protocole d'ouverture. Present
+   a chaque activation planifiee de la Porte.
+
+2. Sergent SILER
+   Badge: SGC-0201
+   Habilitation: BETA
+   Affectation: Maintenance technique - Niveaux 21-28
+   Arrive le: 1997-05-01
+   Responsable de la maintenance des equipements du SGC.
+   Intervient regulierement sur la Porte elle-meme et sur
+   les systemes de securite de la base.
+
+--------------------------------------------------------------------------------
+PERSONNEL MEDICAL
+--------------------------------------------------------------------------------
+
+1. Docteur Janet FRAISER
+   Badge: SGC-0100
+   Habilitation: GAMMA
+   Affectation: Infirmerie - Niveau 21
+   Arrivee le: 1997-03-01
+   Medecin-chef du SGC. Responsable de la sante de tout le
+   personnel et de l'evaluation medicale post-mission.
+
+--------------------------------------------------------------------------------
+LIAISON PENTAGON
+--------------------------------------------------------------------------------
+
+1. Major Paul DAVIS
+   Badge: SGC-0400
+   Habilitation: GAMMA
+   Affectation: Liaison entre le SGC et le Pentagon
+   Arrive le: 1998-07-01
+   Officier de liaison. Assure la communication entre le
+   commandement du SGC et les autorites militaires a Washington.
+   Presence intermittente au SGC.
+
+================================================================================

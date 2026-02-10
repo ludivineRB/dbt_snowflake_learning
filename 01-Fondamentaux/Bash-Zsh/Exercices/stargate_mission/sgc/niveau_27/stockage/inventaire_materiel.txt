@@ -1,0 +1,10 @@
+=== STOCKAGE - NIVEAU 27 ===
+Caisses de materiel SG:
+- Rations MRE x200
+- Tentes tactiques x15
+- Radios longue portee x30
+- Naquadah (echantillons) x5
+
+Rien d'utile pour votre mission ici.
+Remontez au niveau 28 si vous n'avez pas
+encore visite la salle de briefing.

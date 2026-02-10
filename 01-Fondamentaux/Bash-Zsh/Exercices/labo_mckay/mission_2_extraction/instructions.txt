@@ -1,0 +1,27 @@
+=== MISSION 2: Extraire les donnees critiques ===
+Commandes a apprendre: cut, awk, head, tail
+
+Dr. McKay: "J'ai besoin d'extraire des infos specifiques
+du fichier d'inventaire d'Atlantis. C'est un CSV enorme
+et je n'ai pas que ca a faire."
+
+EXERCICES:
+
+1) Affichez seulement les colonnes 1 et 3 (Nom et Quantite):
+   cut -d',' -f1,3 inventaire_atlantis.csv
+
+2) Affichez les 5 premieres lignes:
+   head -5 inventaire_atlantis.csv
+
+3) Affichez les 5 dernieres lignes:
+   tail -5 inventaire_atlantis.csv
+
+4) Avec awk, affichez les items dont la quantite est < 10:
+   awk -F',' '$3 < 10 {print $0}' inventaire_atlantis.csv
+
+5) Creez un fichier "items_critiques.csv" contenant UNIQUEMENT
+   les items avec Quantite < 10 (en gardant le header):
+   head -1 inventaire_atlantis.csv > items_critiques.csv
+   awk -F',' '$3 < 10 {print $0}' inventaire_atlantis.csv >> items_critiques.csv
+
+Puis verifiez: bash verification.sh

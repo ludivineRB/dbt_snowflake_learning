@@ -1,0 +1,10 @@
+=== TABLETTE ANCIENNE (Traduite par Daniel Jackson) ===
+
+"Nous, les Alterans, avons cache nos sources d'energie
+dans le temple sacre. Seuls les dignes pourront les trouver.
+
+La console d'activation est dissimulee.
+Cherchez ce qui ne se voit pas au premier regard."
+
+(Indice: dans le temple, utilisez ls -a pour trouver
+les elements caches. Les Anciens adoraient cacher les choses.)

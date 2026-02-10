@@ -1,0 +1,21 @@
+=== MESSAGE TOK'RA (hologramme) ===
+*Un petit dispositif holographique s'active*
+
+Agent Tok'ra Jacob Carter:
+"Si vous trouvez ce message, sachez que les Anciens
+ont catalogue tous les artefacts de cette planete
+dans une base de donnees.
+
+Cherchez le fichier 'base_de_donnees_anciens.log'
+dans les ruines. Utilisez la commande 'grep' pour
+filtrer les informations sur le ZPM:
+
+  grep "ZPM" base_de_donnees_anciens.log
+
+Puis filtrez les resultats avec un pipe pour
+trouver celui qui est encore actif:
+
+  grep "ZPM" base_de_donnees_anciens.log | grep "actif"
+
+Bonne chance. Les Tok'ra comptent sur vous.
+Jacob, termine."

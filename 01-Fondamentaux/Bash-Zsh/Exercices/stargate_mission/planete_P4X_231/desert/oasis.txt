@@ -1,0 +1,8 @@
+=== PLANETE P4X-231 - DESERT ===
+Un desert aride s'etend a perte de vue.
+Une petite oasis offre un peu de repit.
+
+"Cette planete est connue pour ses mines de naquadah,
+pas pour ses ZPM. Vous faites fausse route."
+
+La chaleur est etouffante. Repartez d'ici.

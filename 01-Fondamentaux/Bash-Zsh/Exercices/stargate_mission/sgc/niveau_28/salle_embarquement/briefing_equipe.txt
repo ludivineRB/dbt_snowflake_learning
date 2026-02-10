@@ -1,0 +1,9 @@
+=== SALLE D'EMBARQUEMENT ===
+La rampe d'acces mene directement a la Porte des Etoiles.
+
+Vous entendez le son familier des chevrons qui s'enclenchent...
+Mais la porte ne s'activera pas tant que vous n'aurez pas
+trouve l'adresse complete.
+
+Pour l'instant, concentrez-vous sur la mission.
+Avez-vous deja visite la salle de briefing ?

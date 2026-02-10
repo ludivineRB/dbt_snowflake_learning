@@ -1,0 +1,11 @@
+=== REFECTOIRE SGC - NIVEAU 25 ===
+Menu du jour:
+- Entree: Soupe de "poulet" (origine inconnue)
+- Plat: Steak-frites (le Colonel O'Neill approuve)
+- Dessert: Jell-O bleu (favori du Dr. Carter)
+
+"La nourriture est correcte, mais ce n'est pas
+ici que vous trouverez des indices."
+
+Le cuisinier vous regarde bizarrement.
+Peut-etre devriez-vous retourner travailler.

@@ -1,99 +1,238 @@
-# Machine Learning
+# 🤖 Machine Learning — Du Vrai Zéro à l'Expertise Industrielle
 
 ## Vue d'ensemble
 
-Ce module couvre le Machine Learning de A à Z : des fondamentaux théoriques jusqu'à la mise en production avec MLOps. Chaque chapitre combine théorie, code pratique et conseils issus de projets réels. L'objectif est de vous rendre autonome pour entraîner, évaluer et déployer des modèles ML en conditions professionnelles.
+Ce module vous emmène du **vrai zéro** jusqu'à la **mise en production** d'un modèle ML. Chaque concept est introduit par le problème qu'il résout, jamais par la formule. La progression suit trois principes :
+
+1. **Le problème avant la solution** : on ne parle jamais d'un outil mathématique avant d'avoir vu le problème qu'il résout
+2. **Triple explication** : intuition métier → visualisation → formalisation + code
+3. **Ancrage progressif** : chaque concept est réutilisé plusieurs fois avant d'introduire le suivant
 
 ## Prérequis
 
-- **Python** : POO, NumPy, Pandas (module 01-Fondamentaux)
-- **SQL basique** : SELECT, JOIN, GROUP BY (module 05-Databases)
-- **Environnement** : `uv` installé, Python 3.10+
+- **Python** : bases, boucles, fonctions, listes/dictionnaires (module 01-Fondamentaux)
+- **Pandas basique** : DataFrame, read_csv (module 01-Fondamentaux/Python)
+- **Environnement** : Python 3.10+, `uv` installé
+- **Aucun prérequis en maths avancées** — tout est construit progressivement
 
-## Contenu
+## 📚 Contenu du parcours (12-16 semaines)
 
-| # | Chapitre | Durée | Niveau | Description |
-|---|---------|-------|--------|-------------|
-| 01 | [Introduction au ML](cours/01-introduction-ml.md) | 2h | Débutant | Définitions, types d'apprentissage, workflow ML, vocabulaire |
-| 02 | [Environnement & Setup](cours/02-environnement-setup.md) | 1h | Débutant | Installation uv, scikit-learn, Jupyter, structure de projet |
-| 03 | [Preprocessing](cours/03-preprocessing.md) | 2h | Débutant | Nettoyage, valeurs manquantes, normalisation, encodage |
-| 04 | [Régression](cours/04-regression.md) | 2h30 | Intermédiaire | Régression linéaire, Ridge, Lasso, métriques de régression |
-| 05 | [Classification](cours/05-classification.md) | 2h30 | Intermédiaire | Logistique, arbres de décision, SVM, KNN, métriques |
-| 06 | [Méthodes d'Ensemble](cours/06-ensemble-methods.md) | 2h | Intermédiaire | Random Forest, Bagging, Boosting, XGBoost, LightGBM |
-| 07 | [Clustering](cours/07-clustering.md) | 2h | Intermédiaire | KMeans, DBSCAN, hiérarchique, évaluation sans labels |
-| 08 | [Évaluation & Métriques](cours/08-evaluation-metriques.md) | 2h | Intermédiaire | Cross-validation, overfitting, courbes ROC, matrice de confusion |
-| 09 | [Feature Engineering](cours/09-feature-engineering.md) | 2h30 | Avancé | Création de features, sélection, PCA, pipelines sklearn |
-| 10 | [MLOps & Production](cours/10-mlops-production.md) | 3h | Avancé | MLflow, FastAPI, Docker, CI/CD, monitoring, data drift |
-| - | [Cheatsheet ML](cours/CHEATSHEET-ml.md) | - | Référence | Aide-mémoire : algorithmes, métriques, commandes, erreurs courantes |
+### Phase 0 : Comprendre avant de calculer (Semaines 1-2)
 
-**Durée totale cours :** ~22 heures
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 01 | [Qu'est-ce que le ML, vraiment ?](cours/01-quest-ce-que-le-ml.md) | 3h | Débutant |
+| 02 | [Anatomie d'un problème ML](cours/02-anatomie-probleme-ml.md) | 3h | Débutant |
 
-## Progression recommandée
+### Phase 1 : Les maths comme outils, pas comme punition (Semaines 3-5)
+
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 03 | [Vecteurs, Matrices et KNN](cours/03-vecteurs-matrices-knn.md) | 3h | Débutant |
+| 04 | [Fonctions, Erreurs et Gradient Descent](cours/04-fonctions-erreurs-gradient.md) | 4h | Intermédiaire |
+| 05 | [Probabilités et Incertitude](cours/05-probabilites-incertitude.md) | 3h | Intermédiaire |
+
+### Phase 2 : La vraie vie des données (Semaines 6-8)
+
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 06 | [Comprendre ses Données](cours/06-comprendre-donnees.md) | 3h | Intermédiaire |
+| 07 | [Feature Engineering](cours/07-feature-engineering.md) | 4h | Intermédiaire |
+| 08 | [Data Leakage — Le Crime Parfait](cours/08-data-leakage.md) | 3h | Intermédiaire |
+
+### Phase 3 : Les algorithmes, enfin ! (Semaines 9-11)
+
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 09 | [Modèles Linéaires et Logiques](cours/09-modeles-lineaires.md) | 4h | Intermédiaire |
+| 10 | [Arbres de Décision et Forêts](cours/10-arbres-forets.md) | 4h | Intermédiaire |
+| 11 | [Boosting — Les Champions de Kaggle](cours/11-boosting.md) | 3h | Avancé |
+
+### Phase 4 : Évaluer sérieusement (Semaines 12-13)
+
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 12 | [Métriques — Au-delà de l'Accuracy](cours/12-metriques-classification.md) | 3h | Intermédiaire |
+| 13 | [Validation et Généralisation](cours/13-validation-generalisation.md) | 3h | Intermédiaire |
+
+### Phase 5 : Interprétabilité et Éthique (Semaine 14)
+
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 14 | [Interpréter ses Modèles et Éthique](cours/14-interpretabilite-ethique.md) | 4h | Avancé |
+
+### Phase 6 : Production et MLOps (Semaines 15-16)
+
+| # | Chapitre | Durée | Niveau |
+|---|---------|-------|--------|
+| 15 | [Du Notebook à l'API](cours/15-notebook-api.md) | 4h | Avancé |
+| 16 | [Docker, Monitoring et MLOps](cours/16-docker-monitoring.md) | 4h | Avancé |
+
+| - | [Cheatsheet ML](cours/CHEATSHEET-ml.md) | - | Référence |
+
+**Durée totale estimée : ~50 heures** (cours + exercices + projet)
+
+## 🗺️ Progression recommandée
 
 ```
- FONDAMENTAUX               MODÈLES SUPERVISÉS           MODÈLES NON-SUPERVISÉS
-┌──────────────┐  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-│  Module 01   │─►│  Module 02   │─►│  Module 03   │  │  Module 07   │
-│ Introduction │  │    Setup     │  │ Preprocessing│  │  Clustering  │
-└──────────────┘  └──────────────┘  └──────┬───────┘  └──────────────┘
-                                           │                  ▲
-                                           ▼                  │
-                                    ┌──────────────┐          │
-                                    │  Module 04   │          │
-                                    │  Régression  │          │
-                                    └──────┬───────┘          │
-                                           │                  │
-                                           ▼                  │
-                                    ┌──────────────┐          │
-                                    │  Module 05   │──────────┘
-                                    │Classification│
-                                    └──────┬───────┘
-                                           │
-                                           ▼
- AVANCÉ                      ┌──────────────┐
-┌──────────────┐             │  Module 06   │
-│  Module 09   │◄────────────│  Ensemble    │
-│  Features    │             └──────────────┘
-└──────┬───────┘
-       │         ┌──────────────┐
-       │         │  Module 08   │
-       ├────────►│  Évaluation  │
-       │         └──────────────┘
+ PHASE 0 : COMPRENDRE              PHASE 1 : LES MATHS UTILES
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 01 │                   │  Chapitre 03 │
+│  Qu'est-ce   │──────────────────▶│  Vecteurs &  │
+│  que le ML ? │                   │  KNN         │
+└──────┬───────┘                   └──────┬───────┘
+       │                                  │
+       ▼                                  ▼
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 02 │                   │  Chapitre 04 │
+│  Anatomie    │──────────────────▶│  Erreurs &   │
+│  problème ML │                   │  Gradient    │
+└──────────────┘                   └──────┬───────┘
+                                          │
+                                          ▼
+                                   ┌──────────────┐
+                                   │  Chapitre 05 │
+                                   │  Probabilités│
+                                   └──────┬───────┘
+                                          │
+       ┌──────────────────────────────────┘
        ▼
-┌──────────────┐  ┌──────────────┐
-│  Module 10   │─►│  Cheatsheet  │
-│    MLOps     │  │   Référence  │
-└──────────────┘  └──────────────┘
+ PHASE 2 : LES DONNÉES             PHASE 3 : LES ALGORITHMES
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 06 │                   │  Chapitre 09 │
+│  Comprendre  │──────────────────▶│  Modèles     │
+│  les données │                   │  linéaires   │
+└──────┬───────┘                   └──────┬───────┘
+       │                                  │
+       ▼                                  ▼
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 07 │                   │  Chapitre 10 │
+│  Feature     │                   │  Arbres &    │
+│  Engineering │                   │  Forêts      │
+└──────┬───────┘                   └──────┬───────┘
+       │                                  │
+       ▼                                  ▼
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 08 │                   │  Chapitre 11 │
+│  Data        │──────────────────▶│  Boosting    │
+│  Leakage     │                   │              │
+└──────────────┘                   └──────┬───────┘
+                                          │
+       ┌──────────────────────────────────┘
+       ▼
+ PHASE 4 : ÉVALUER                 PHASE 5-6 : PRODUCTION
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 12 │                   │  Chapitre 14 │
+│  Métriques   │──────────────────▶│Interprétabi- │
+│              │                   │  lité        │
+└──────┬───────┘                   └──────┬───────┘
+       │                                  │
+       ▼                                  ▼
+┌──────────────┐                   ┌──────────────┐
+│  Chapitre 13 │                   │  Chapitre 15 │
+│  Validation  │                   │  API         │
+│              │──────────────────▶│  Production  │
+└──────────────┘                   └──────┬───────┘
+                                          │
+                                          ▼
+                                   ┌──────────────┐
+                                   │  Chapitre 16 │
+                                   │  Docker &    │
+                                   │  Monitoring  │
+                                   └──────────────┘
 ```
 
-## Planning suggéré (semaine type)
+## 📅 Planning suggéré
 
 ```
-Jour 1 : Fondamentaux (~5h)
-├── Module 01 - Introduction au ML (2h)
-├── Module 02 - Environnement & Setup (1h)
-└── Module 03 - Preprocessing (2h)
+Semaine 1-2 : Phase 0 — Comprendre (~6h)
+├── Chapitre 01 - Qu'est-ce que le ML ? (3h)
+└── Chapitre 02 - Anatomie d'un problème ML (3h)
 
-Jour 2 : Modèles supervisés (~5h)
-├── Module 04 - Régression (2h30)
-└── Module 05 - Classification (2h30)
+Semaine 3-5 : Phase 1 — Maths utiles (~10h)
+├── Chapitre 03 - Vecteurs, Matrices, KNN (3h)
+├── Chapitre 04 - Fonctions, Erreurs, Gradient (4h)
+└── Chapitre 05 - Probabilités (3h)
 
-Jour 3 : Méthodes avancées (~4h)
-├── Module 06 - Méthodes d'Ensemble (2h)
-└── Module 07 - Clustering (2h)
+Semaine 6-8 : Phase 2 — Les données (~10h)
+├── Chapitre 06 - Comprendre les données (3h)
+├── Chapitre 07 - Feature Engineering (4h)
+└── Chapitre 08 - Data Leakage (3h)
 
-Jour 4 : Évaluation et Features (~4h30)
-├── Module 08 - Évaluation & Métriques (2h)
-└── Module 09 - Feature Engineering (2h30)
+Semaine 9-11 : Phase 3 — Les algorithmes (~11h)
+├── Chapitre 09 - Modèles linéaires (4h)
+├── Chapitre 10 - Arbres et Forêts (4h)
+└── Chapitre 11 - Boosting (3h)
 
-Jour 5 : Production (~3h + pratique)
-├── Module 10 - MLOps & Production (3h)
-└── Projet pratique / Brief
+Semaine 12-13 : Phase 4 — Évaluation (~6h)
+├── Chapitre 12 - Métriques (3h)
+└── Chapitre 13 - Validation (3h)
+
+Semaine 14 : Phase 5 — Interprétabilité (~4h)
+└── Chapitre 14 - Interpréter et éthique (4h)
+
+Semaine 15-16 : Phase 6 — Production (~8h)
+├── Chapitre 15 - Du notebook à l'API (4h)
+└── Chapitre 16 - Docker et monitoring (4h)
 ```
 
-## Ressources complémentaires
+## 🎯 Projet fil rouge : Scoring de Churn Client
 
-- [Cheatsheet ML](cours/CHEATSHEET-ml.md) - Aide-mémoire à garder sous la main
+Utilisé tout au long du parcours sur le dataset [Telco Churn](data/clients_churn.csv) :
+
+| Phase | Utilisation du projet |
+|-------|----------------------|
+| Phase 0 | Exploration et compréhension des données |
+| Phase 1 | Calcul de distances, régression simple |
+| Phase 2 | Nettoyage, feature engineering, pipeline |
+| Phase 3 | Modélisation et comparaison d'algorithmes |
+| Phase 4 | Évaluation rigoureuse et validation |
+| Phase 5 | Explication des prédictions (SHAP) |
+| Phase 6 | API de scoring en production |
+
+## 📂 Structure du module
+
+```
+08-Machine-Learning/
+├── README.md                          ← Vous êtes ici
+├── cours/                             ← 16 chapitres + cheatsheet
+│   ├── 01-quest-ce-que-le-ml.md
+│   ├── 02-anatomie-probleme-ml.md
+│   ├── ...
+│   ├── 16-docker-monitoring.md
+│   └── CHEATSHEET-ml.md
+├── notebooks/                         ← Notebooks interactifs
+│   ├── 01-regression-prix-immobilier.ipynb
+│   ├── 02-classification-churn-client.ipynb
+│   └── 03-clustering-produits.ipynb
+├── exercices/                         ← Exercices pratiques
+│   ├── exercice-01-exploration-donnees.md
+│   ├── exercice-02-maths-knn.md
+│   ├── exercice-03-preprocessing-pipeline.md
+│   ├── exercice-04-comparaison-modeles.md
+│   └── exercice-05-evaluation-complete.md
+├── briefs/                            ← Projet fil rouge
+│   └── brief-churn-scoring.md
+├── data/                              ← Datasets
+│   ├── clients_churn.csv
+│   ├── house_prices.csv
+│   └── produits_clustering.csv
+└── images/                            ← Diagrammes et visuels
+```
+
+## 🔗 Ressources complémentaires
+
+- [Cheatsheet ML](cours/CHEATSHEET-ml.md) — Aide-mémoire à garder sous la main
 - [Documentation scikit-learn](https://scikit-learn.org/stable/)
-- [Documentation MLflow](https://mlflow.org/docs/latest/)
+- [Documentation XGBoost](https://xgboost.readthedocs.io/)
+- [Documentation SHAP](https://shap.readthedocs.io/)
 - [Documentation FastAPI](https://fastapi.tiangolo.com/)
+- [Documentation MLflow](https://mlflow.org/docs/latest/)
+
+## ✨ Ce qui différencie ce cours
+
+- **Zéro jargon non expliqué** — chaque terme est défini par l'usage avant la théorie
+- **Maths introduites au moment du besoin** — pas de chapitre "prérequis maths" isolé
+- **Triple progression** : intuition → visualisation → code
+- **Ancré dans la production** — pas que de la théorie, un vrai déploiement
+- **Projet fil rouge réaliste** du début à la fin sur le même dataset

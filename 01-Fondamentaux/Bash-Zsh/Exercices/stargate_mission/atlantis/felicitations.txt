@@ -1,0 +1,22 @@
+=============================================
+   ATLANTIS - MESSAGE DU DR. WEIR
+=============================================
+
+"Si vous lisez ce message, c'est que quelqu'un
+a reussi a nous apporter un ZPM.
+
+Au nom de toute l'expedition Atlantis, merci.
+
+Vous avez prouve que vous maitrisez:
+- La navigation dans un systeme de fichiers (cd, ls)
+- La decouverte de fichiers caches (ls -a)
+- La creation et manipulation de fichiers (mkdir, touch, echo, mv)
+- La recherche dans des donnees (grep, pipes |)
+- L'execution de scripts (chmod, export, bash)
+
+Ces competences sont la base de tout bon
+ingenieur de donnees. La galaxie (et le terminal)
+n'ont plus de secrets pour vous."
+
+- Dr. Elizabeth Weir, Commandante d'Atlantis
+=============================================

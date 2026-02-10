@@ -1,0 +1,50 @@
+================================================================================
+       COMMUNICATION INTERCEPTEE - CLASSIFIE AU-DELA OMEGA
+================================================================================
+
+Interception par: Systeme ECHELON-SGC
+Date d'interception: 2024-03-16 04:15:00
+Frequence: Canal chiffre NID / Bande Sub-spatiale 7.42
+Statut: DECHIFFRE PAR LE MAJOR CARTER
+
+--------------------------------------------------------------------------------
+DEBUT DE TRANSMISSION
+--------------------------------------------------------------------------------
+
+DE: CONDOR [identifie: cellule NID externe]
+A: FAUCON [identifie: agent infiltre au SGC]
+
+"FAUCON, ici CONDOR.
+
+Les echantillons technologiques recuperes lors de vos 3 dernieres
+transmissions sont de grande valeur. Le comite est satisfait.
+
+Votre prochaine mission: recuperer le cristal de controle de la
+Porte des Etoiles lors de la prochaine fenetre de maintenance.
+
+Notre agent au sein de SG-3 a demontre une efficacite remarquable.
+La couverture d'equipe d'assaut est parfaite pour justifier l'acces
+aux zones sensibles.
+
+Rendez-vous prevu: P4X-884, coordonnees d'embarquement jointes.
+Date: prochaine activation non planifiee.
+
+Le NID compte sur vous, Colonel.
+
+CONDOR, terminé."
+
+--------------------------------------------------------------------------------
+FIN DE TRANSMISSION
+--------------------------------------------------------------------------------
+
+ANALYSE:
+  - "FAUCON" designe un agent infiltre au SGC
+  - Reference explicite a "SG-3" et au grade "Colonel"
+  - L'agent a effectue au moins 3 transmissions de donnees
+  - Le NID cherche a s'emparer de technologie Goa'uld
+  - Rendez-vous off-world prevu sur P4X-884
+
+================================================================================
+  Cette preuve, combinee aux logs d'acces et aux connexions reseau,
+  devrait permettre d'identifier formellement le traitre.
+================================================================================
