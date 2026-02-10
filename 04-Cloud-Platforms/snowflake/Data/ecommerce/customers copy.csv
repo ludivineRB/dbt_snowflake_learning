@@ -1,0 +1,6 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,ADDRESS,CITY,POSTAL_CODE,COUNTRY
+1,Jean,Dupont,jean.dupont@email.com,0123456789,123 Rue de la Paix,Paris,75001,France
+2,Marie,Martin,marie.martin@email.com,0987654321,456 Avenue des Champs,Lyon,69001,France
+3,Pierre,Durand,pierre.durand@email.com,0147258369,789 Boulevard Voltaire,Marseille,13001,France
+4,Sophie,Moreau,sophie.moreau@email.com,0156789012,321 Place République,Toulouse,31000,France
+5,Thomas,Rousseau,thomas.rousseau@email.com,0167890123,654 Rue Commerce,Nice,06000,France

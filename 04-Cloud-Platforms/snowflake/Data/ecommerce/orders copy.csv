@@ -1,0 +1,6 @@
+ORDER_ID,CUSTOMER_ID,ORDER_DATE,ORDER_STATUS,TOTAL_AMOUNT,SHIPPING_ADDRESS
+1001,1,2024-01-15,Delivered,899.99,123 Rue de la Paix Paris
+1002,2,2024-01-16,Delivered,159.98,456 Avenue des Champs Lyon
+1003,3,2024-01-18,Shipped,589.98,789 Boulevard Voltaire Marseille
+1004,4,2024-01-20,Processing,459.99,321 Place République Toulouse
+1005,5,2024-01-22,Pending,329.98,654 Rue Commerce Nice
