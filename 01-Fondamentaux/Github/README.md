@@ -80,4 +80,4 @@ Session 3 (1h) :
 - Terminal / ligne de commande
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

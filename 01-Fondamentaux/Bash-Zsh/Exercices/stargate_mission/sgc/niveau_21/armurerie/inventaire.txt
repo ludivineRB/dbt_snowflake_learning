@@ -1,0 +1,11 @@
+=== ARMURERIE - NIVEAU 21 ===
+Inventaire des armes SG:
+- P90 FN x42
+- Zat'nik'tel x12 (arme Goa'uld: 1 tir = paralysie, 2 = mort, 3 = desintegration)
+- C4 x20 blocs
+- Lance Jaffa x3 (recuperees sur le terrain)
+
+"Pas besoin d'armes pour cette mission, soldat.
+Vous cherchez le labo du Dr. Carter.
+Il est quelque part a ce niveau... mais pas
+la ou vous pensez."

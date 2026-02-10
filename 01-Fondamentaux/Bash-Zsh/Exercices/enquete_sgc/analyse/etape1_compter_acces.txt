@@ -1,0 +1,29 @@
+=== ETAPE 1: Compter les acces nocturnes ===
+
+Quelqu'un accede a la salle de la Porte des Etoiles la nuit.
+Commencez par compter combien d'acces nocturnes il y a eu au total.
+
+Commande utile:
+  grep "NUIT" logs_securite/acces_porte.log | wc -l
+
+  -> grep filtre les lignes contenant "NUIT"
+  -> wc -l compte le nombre de lignes
+
+Ensuite, identifiez QUI accede la nuit le plus souvent:
+  grep "NUIT" logs_securite/acces_porte.log | awk -F'|' '{print $2}' | sort | uniq -c | sort -rn
+
+Decomposition de la commande:
+  -> grep "NUIT"            : filtre les acces de nuit
+  -> awk -F'|' '{print $2}' : extrait le 2e champ (separateur |) = le nom
+  -> sort                   : trie par ordre alphabetique (necessaire pour uniq)
+  -> uniq -c                : compte les occurrences consecutives identiques
+  -> sort -rn               : trie par nombre decroissant (-r = reverse, -n = numerique)
+
+Qui est en tete de la liste? Notez ce nom.
+
+Bonus - Verifiez aussi les acces nocturnes au laboratoire:
+  grep "NUIT" logs_securite/acces_labo.log | awk -F'|' '{print $2}' | sort | uniq -c | sort -rn
+
+Est-ce le meme nom qui revient?
+
+Passez a l'etape 2.

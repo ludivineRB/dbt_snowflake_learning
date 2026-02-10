@@ -1,0 +1,11 @@
+=== CRISTAL DE DONNEES ANCIEN ===
+Ce cristal semble etre un dispositif de stockage.
+
+Malheureusement, il est endommage.
+Seul un fragment est lisible:
+
+"...base_de_donnees_anciens.log... contient
+l'inventaire complet des artefacts..."
+
+Le fichier semble etre dans le dossier principal
+des ruines. Utilisez 'grep' pour y chercher "ZPM".

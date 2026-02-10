@@ -1,0 +1,8 @@
+=== COULOIR EFFONDRE ===
+Le plafond s'est ecroule ici. Impossible de passer.
+
+Des debris bloquent le passage. On aperçoit
+des inscriptions sur les murs, mais elles sont
+illisibles sous la poussiere.
+
+Retournez en arriere et explorez ailleurs.

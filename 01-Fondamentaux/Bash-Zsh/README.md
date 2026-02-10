@@ -23,4 +23,4 @@ Transformez votre terminal en un outil de productivité puissant.
 3. [03 - Plugins et Personnalisation](Zsh/03-plugins-custom.md)
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

@@ -667,4 +667,4 @@ dbt run --vars '{"min_price": 200, "max_price": 100}'  # Doit échouer
 
 ---
 
-**Prochaine étape** : [Chapitre 9 - Tests et documentation](chapitre-9-tests.md)
+**Prochaine étape** : [Chapitre 9 - dbt Core](09-dbt-core.md)

@@ -1,0 +1,25 @@
+=== MISSION 4: Agreger les statistiques ===
+Commandes a apprendre: sort, uniq, wc, pipes complexes
+
+Dr. McKay: "Le journal de consommation d'energie est un fichier
+gigantesque. J'ai besoin de statistiques MAINTENANT."
+
+EXERCICES:
+
+1) Combien de lignes dans le fichier (hors header)?
+   tail -n +2 consommation_energie.log | wc -l
+
+2) Quelles zones consomment de l'energie? (liste unique)
+   tail -n +2 consommation_energie.log | awk -F',' '{print $2}' | sort -u
+
+3) Combien de mesures par zone?
+   tail -n +2 consommation_energie.log | awk -F',' '{print $2}' | sort | uniq -c | sort -rn
+
+4) Quelle zone consomme le PLUS? (somme par zone avec awk)
+   awk -F',' 'NR>1 {sum[$2]+=$3} END {for (z in sum) print sum[z], z}' consommation_energie.log | sort -rn
+
+5) Creez un fichier "stats_energie.txt" avec le TOP 3 des zones
+   les plus consommatrices (format: "CONSOMMATION ZONE"):
+   awk -F',' 'NR>1 {sum[$2]+=$3} END {for (z in sum) print sum[z], z}' consommation_energie.log | sort -rn | head -3 > stats_energie.txt
+
+Verifiez: bash verification.sh

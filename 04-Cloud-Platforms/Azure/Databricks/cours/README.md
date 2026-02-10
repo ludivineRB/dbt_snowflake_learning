@@ -202,7 +202,7 @@ Azure/Databricks/
 ## 🤝 Support et contributions
 
 Pour des questions ou suggestions d'amélioration :
-- Contactez l'équipe de formation Simplon
+- Contactez l'équipe de formation
 - Consultez la documentation officielle Azure Databricks
 - Participez aux forums Databricks Community
 
@@ -217,7 +217,7 @@ Pour des questions ou suggestions d'amélioration :
 
 ## 📄 Licence
 
-Ce contenu de formation est destiné à un usage pédagogique dans le cadre de la formation Simplon.
+Ce contenu de formation est destiné à un usage pédagogique.
 
 ---
 

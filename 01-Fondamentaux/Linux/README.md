@@ -41,4 +41,4 @@ Optimisation du Kernel pour la Data, monitoring avancé et troubleshooting exper
 Mise en pratique des concepts abordés.
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

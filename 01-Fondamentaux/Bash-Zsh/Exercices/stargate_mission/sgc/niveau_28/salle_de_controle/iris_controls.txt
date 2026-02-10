@@ -1,0 +1,10 @@
+=== CONTROLES DE L'IRIS ===
+  [OUVRIR]  [FERMER]  [DIAGNOSTIC]
+
+  ATTENTION: Acces restreint au personnel autorise.
+  Toute manipulation non autorisee sera rapportee
+  au General Hammond.
+
+  Ceci n'est pas ce que vous cherchez.
+  (Indice: Walter tient un journal personnel...
+  mais il le garde cache.)

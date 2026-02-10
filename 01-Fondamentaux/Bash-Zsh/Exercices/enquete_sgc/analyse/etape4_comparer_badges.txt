@@ -1,0 +1,30 @@
+=== ETAPE 4: Comparer les badges ===
+
+Nous avons retrouve deux versions du meme badge dans le systeme:
+  - preuves/badge_original.txt  (la version officielle dans les archives)
+  - preuves/badge_suspect.txt   (la version trouvee dans le systeme actif)
+
+Comparez-les avec la commande diff:
+  diff preuves/badge_original.txt preuves/badge_suspect.txt
+
+La commande diff montre les differences entre deux fichiers:
+  < = ligne presente dans le PREMIER fichier (original)
+  > = ligne presente dans le SECOND fichier (suspect)
+  Les numeros (ex: 6c6) indiquent les lignes concernees
+
+Pour une vue cote-a-cote plus lisible:
+  diff --side-by-side preuves/badge_original.txt preuves/badge_suspect.txt
+
+  -> | indique une ligne modifiee
+  -> < indique une ligne uniquement dans le fichier de gauche
+  -> > indique une ligne uniquement dans le fichier de droite
+
+Questions:
+  1. L'habilitation a-t-elle ete modifiee? De quoi vers quoi?
+  2. Les acces autorises ont-ils ete elargis?
+  3. La restriction a-t-elle ete supprimee?
+
+Ces modifications expliquent comment le suspect a pu acceder
+a la salle de controle et a la salle d'embarquement la nuit.
+
+Passez a l'etape 5 pour assembler toutes les preuves.

@@ -1,0 +1,11 @@
+=== NOTES DE RECHERCHE - Dr. Carter ===
+Projet: Reacteur a Naquadah Mark III
+
+"Le naquadah est l'element de base de la technologie
+des Portes des Etoiles. Un seul gramme contient plus
+d'energie que... bon, c'est complique.
+
+Si vous etes arrive(e) jusqu'ici, vous maitrisez bien
+la navigation et les fichiers caches. Bravo !
+
+Mais revenez a la mission: direction porte_des_etoiles/"

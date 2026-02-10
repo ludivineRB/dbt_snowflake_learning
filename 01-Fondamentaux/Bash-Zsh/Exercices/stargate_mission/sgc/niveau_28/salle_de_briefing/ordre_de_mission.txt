@@ -1,0 +1,14 @@
+=== SALLE DE BRIEFING - NIVEAU 28 ===
+General Hammond: "Asseyez-vous, SG-nouveau."
+
+"Nos allies Tok'ra nous ont transmis des renseignements sur un ZPM
+encore fonctionnel. L'adresse de la planete est classifiee.
+
+Vous devez retrouver les coordonnees dans nos documents.
+ATTENTION: les fichiers classifies ne sont pas visibles avec
+un simple 'ls'. Il faudra chercher plus... en profondeur."
+
+Indice du General: "La commande 'ls' a des options cachees.
+Essayez 'ls -a' pour voir ce qui est invisible a l'oeil nu."
+
+(Restez au niveau_28 et cherchez un dossier de documents classifies)

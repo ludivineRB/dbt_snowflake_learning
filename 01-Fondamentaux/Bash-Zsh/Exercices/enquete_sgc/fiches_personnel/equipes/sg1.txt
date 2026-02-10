@@ -1,0 +1,42 @@
+================================================================================
+                    FICHE D'EQUIPE - SG-1
+                  Equipe d'exploration principale
+================================================================================
+
+Statut: ACTIVE
+Classification: OMEGA
+Missions accomplies: 247
+
+--------------------------------------------------------------------------------
+COMPOSITION DE L'EQUIPE
+--------------------------------------------------------------------------------
+
+1. Colonel Jack O'NEILL - Chef d'equipe
+   Badge: SGC-0001
+   Specialite: Tactique militaire, operations speciales
+   Ancien membre des forces speciales (Black Ops). A dirige la premiere
+   mission a travers la Porte des Etoiles vers Abydos. Reconnu pour son
+   leadership et son sens de l'humour en situation de crise. Loyaute
+   envers son equipe et la Terre sans faille.
+
+2. Lt-Colonel Samantha CARTER - Scientifique / Second
+   Badge: SGC-0002
+   Specialite: Astrophysique, ingenierie des systemes Goa'uld
+   Experte en physique theorique et en technologie alien. A concu le
+   programme de composition d'adresses de la Porte. Auteure de plus
+   de 150 publications classifiees.
+
+3. Daniel JACKSON - Archeologue / Linguiste
+   Badge: SGC-0003
+   Specialite: Langues anciennes, archeologie extraterrestre
+   Civil. A dechiffre les glyphes de la Porte des Etoiles rendant le
+   programme Stargate possible. Expert en plus de 23 langues anciennes
+   et extraterrestres.
+
+4. TEAL'C - Specialiste Jaffa
+   Badge: SGC-0004
+   Specialite: Combat Jaffa, connaissance Goa'uld
+   Ancien Prima d'Apophis, a trahi les Goa'uld pour rejoindre SG-1.
+   Connaissance inegalee de la galaxie et des tactiques ennemies.
+
+================================================================================

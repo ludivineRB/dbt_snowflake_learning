@@ -1,0 +1,33 @@
+=== ETAPE 5: Assembler les preuves ===
+
+Recapitulons votre enquete:
+
+  1. Qui a le plus d'acces nocturnes a la salle de la Porte?
+     -> grep + sort + uniq sur acces_porte.log
+
+  2. Qui se connecte a des serveurs chiffres externes?
+     -> grep "EXTERNE_CHIFFRE" sur connexions_reseau.log
+
+  3. Quel badge a ete falsifie?
+     -> diff entre badge_original.txt et badge_suspect.txt
+
+  4. Ce meme suspect accede-t-il au labo la nuit?
+     -> grep "NUIT" sur acces_labo.log
+
+Toutes les preuves convergent vers la meme personne...
+
+Mais il reste peut-etre des preuves supplementaires cachees.
+Avez-vous verifie s'il y a des fichiers caches dans le dossier
+preuves/ ?
+
+  ls -la preuves/
+
+  -> L'option -a affiche les fichiers caches (commencant par un point)
+  -> Explorez ce que vous trouvez!
+
+Quand vous avez identifie le traitre avec certitude, rendez-vous
+dans le dossier resolution/ et executez:
+
+  bash resolution/demasquer_espion.sh
+
+Bonne chance, enqueteur. Le SGC compte sur vous.

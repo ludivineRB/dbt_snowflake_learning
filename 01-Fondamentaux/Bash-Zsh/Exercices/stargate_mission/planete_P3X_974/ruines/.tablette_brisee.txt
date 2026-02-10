@@ -1,0 +1,15 @@
+=== TABLETTE BRISEE (partiellement lisible) ===
+
+"...base de don... contient... tous les art...
+...utiliser grep pour... chercher...
+...ZPM... temple... actif..."
+
+Cette tablette est en mauvais etat, mais elle semble
+indiquer qu'une base de donnees existe quelque part
+dans ces ruines. Cherchez un fichier .log
+
+Pour chercher un mot dans un fichier volumineux:
+  grep "mot_recherche" nom_du_fichier
+
+Pour affiner la recherche avec un pipe:
+  grep "mot1" fichier | grep "mot2"

@@ -228,16 +228,5 @@ dbt run --select tag:incremental
 
 ---
 
-🎉 **Félicitations !** Vous avez terminé le cours DBT Cloud. Vous maîtrisez maintenant :
-- Configuration complète d'un projet DBT Cloud
-- Transformation de données avec les bonnes pratiques
-- Gestion des matérialisations et optimisations
-- Tests de qualité et unitaires
-- Modèles incrémentaux pour la performance
-
-## 📚 Ressources pour aller plus loin
-
-- [Documentation officielle DBT](https://docs.getdbt.com/)
-- [DBT Cloud Features](https://www.getdbt.com/product/dbt-cloud/)
-- [Communauté DBT](https://discourse.getdbt.com/)
-- [Packages DBT](https://hub.getdbt.com/)
+**Étape précédente** : [Chapitre 6 - Tests de qualité](06-tests.md)
+**Prochaine étape** : [Chapitre 8 - Variables DBT](08-variables.md)

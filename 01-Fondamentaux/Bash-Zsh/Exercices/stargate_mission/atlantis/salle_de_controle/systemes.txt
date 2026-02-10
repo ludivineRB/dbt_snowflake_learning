@@ -1,0 +1,10 @@
+=== SALLE DE CONTROLE D'ATLANTIS ===
+Status de la cite:
+  Bouclier:    CRITIQUE (2% restant)
+  Energie:     CRITIQUE
+  Survie:      ALERTE
+  Moteurs:     HORS LIGNE
+
+  BESOIN URGENT D'UN ZPM!
+
+  (Completez la mission pour alimenter Atlantis)

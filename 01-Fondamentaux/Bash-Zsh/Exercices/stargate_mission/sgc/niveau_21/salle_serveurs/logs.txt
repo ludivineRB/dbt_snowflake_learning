@@ -1,0 +1,9 @@
+=== SALLE DES SERVEURS - NIVEAU 21 ===
+[LOG] Systeme Stargate v7.2 - Operationnel
+[LOG] Base de donnees des adresses - En ligne
+[LOG] Sous-routine de decryptage - Active
+[LOG] Protocole de securite Iris - Actif
+
+ACCES REFUSE - Vous n'avez pas les droits.
+(Le labo de Carter est ailleurs a ce niveau.
+Pensez a utiliser ls -a pour trouver ce qui est cache...)

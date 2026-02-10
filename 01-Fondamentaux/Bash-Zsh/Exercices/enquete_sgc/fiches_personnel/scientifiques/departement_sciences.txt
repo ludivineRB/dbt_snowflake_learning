@@ -1,0 +1,48 @@
+================================================================================
+               DEPARTEMENT SCIENTIFIQUE DU SGC
+                   Personnel et affectations
+================================================================================
+
+RESPONSABLE: Lt-Colonel Samantha Carter (SGC-0002)
+
+--------------------------------------------------------------------------------
+PERSONNEL SCIENTIFIQUE
+--------------------------------------------------------------------------------
+
+1. Docteur Bill LEE
+   Badge: SGC-0300
+   Habilitation: BETA
+   Specialite: Ingenierie inverse, technologie alien
+   Affectation: Laboratoire de recherche - Niveau 21
+   Arrive le: 1999-01-10
+   Responsable de l'analyse et de la retro-ingenierie des
+   technologies extraterrestres recuperees lors des missions.
+
+2. Docteur Jay FELGER
+   Badge: SGC-0301
+   Habilitation: ALPHA
+   Specialite: Programmation, systemes informatiques
+   Affectation: Laboratoire informatique - Niveau 21
+   Arrive le: 2001-03-15
+   Specialiste en programmation des systemes et en simulation.
+   Acces restreint aux systemes critiques (habilitation ALPHA).
+
+3. Daniel JACKSON (rattache a SG-1)
+   Badge: SGC-0003
+   Habilitation: OMEGA
+   Specialite: Archeologie, linguistique
+   Affectation: Bureau d'etudes - Niveau 18
+   Arrive le: 1997-02-14
+   Bien que membre de SG-1, le Dr Jackson est regulierement
+   consulte par le departement scientifique pour les traductions
+   et analyses archeologiques.
+
+--------------------------------------------------------------------------------
+NIVEAUX D'HABILITATION (rappel):
+  ALPHA  - Acces basique, zones non classifiees
+  BETA   - Acces intermediaire, zones de travail
+  GAMMA  - Acces elargi, zones de commandement
+  OMEGA  - Acces total, toutes zones
+--------------------------------------------------------------------------------
+
+================================================================================

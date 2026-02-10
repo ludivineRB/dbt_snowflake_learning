@@ -1,0 +1,32 @@
+=== ETAPE 3: Identifier le suspect dans la base ===
+
+Vous avez un nom suspect. Retrouvez ses informations dans le fichier personnel.
+
+Pour afficher le fichier CSV proprement en colonnes:
+  cat dossier_enquete/suspects.csv | column -t -s','
+
+  -> column -t aligne les colonnes
+  -> -s',' indique que le separateur est la virgule
+
+Pour rechercher les infos de votre suspect (remplacez SUSPECT par le nom):
+  grep "SUSPECT" dossier_enquete/suspects.csv
+
+Pour voir seulement les noms et numeros de badge:
+  awk -F',' '{print $1, $5}' dossier_enquete/suspects.csv
+
+  -> -F','        : le separateur de champs est la virgule
+  -> {print $1, $5} : affiche le 1er champ (Nom) et le 5e (Badge)
+
+Pour compter le nombre total de personnes au SGC:
+  wc -l dossier_enquete/suspects.csv
+
+  -> N'oubliez pas de retirer 1 pour la ligne d'en-tete!
+
+Bonus - Filtrer par equipe:
+  awk -F',' '$4 == "SG-3" {print $0}' dossier_enquete/suspects.csv
+
+  -> Affiche uniquement les membres de SG-3
+  -> Qui est le chef d'equipe? Quel est son badge?
+
+Notez le numero de badge du suspect.
+Passez a l'etape 4.

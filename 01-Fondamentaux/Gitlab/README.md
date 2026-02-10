@@ -27,4 +27,4 @@ Utiliser le registre de conteneurs intégré et les outils de scan de vulnérabi
 Mise en pratique des concepts abordés.
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

@@ -40,4 +40,4 @@ Configurez le routage HTTP/HTTPS avancé et le SSL/TLS.
 Mise en situation réelle sur Azure Kubernetes Service.
 
 ---
-**Simplon** - Formation Data Engineer
+**Academy** - Formation Data Engineer

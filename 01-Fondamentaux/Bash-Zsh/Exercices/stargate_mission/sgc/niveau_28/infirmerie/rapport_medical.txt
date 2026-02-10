@@ -1,0 +1,9 @@
+=== INFIRMERIE DU SGC ===
+Dr. Janet Fraiser - Medecin en chef
+
+"Dossier medical: SG-nouveau
+Status: Apte au service
+Vaccinations: A jour (y compris anti-Goa'uld)
+
+Note: Ce patient semble perdu dans les couloirs.
+Redirigez-le vers la salle de briefing."

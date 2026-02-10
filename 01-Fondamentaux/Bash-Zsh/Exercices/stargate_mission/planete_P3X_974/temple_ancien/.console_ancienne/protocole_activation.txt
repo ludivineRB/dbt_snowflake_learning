@@ -1,0 +1,22 @@
+=== CONSOLE D'ACTIVATION DES ANCIENS ===
+Protocole de liberation du ZPM-GAMMA
+
+Pour activer la console et liberer le ZPM,
+suivez ces etapes DANS L'ORDRE:
+
+1) Exportez votre code iris comme variable d'environnement:
+   export CODE="votre_premier_mot_de_passe"
+   (Le code que Walter vous a donne au SGC)
+
+2) Rendez le script executable:
+   chmod +x formule_ancestrale.sh
+
+3) Executez le script:
+   ./formule_ancestrale.sh
+   (Il vous demandera votre second mot de passe)
+
+Le script verifiera vos deux mots de passe.
+Si tout est correct, le ZPM sera libere et
+vous pourrez sauver Atlantis !
+
+=== FIN DU PROTOCOLE ===

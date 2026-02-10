@@ -1,0 +1,29 @@
+=== ETAPE 2: Analyser les connexions reseau ===
+
+Notre suspect se connecte-t-il a des serveurs externes?
+
+Cherchez les connexions chiffrees vers l'exterieur:
+  grep "EXTERNE_CHIFFRE" logs_securite/connexions_reseau.log
+
+  -> Cela affiche toutes les connexions vers des serveurs externes chiffres
+  -> Ce type de connexion est anormal depuis le SGC
+
+Qui fait ces connexions suspectes?
+  grep "EXTERNE_CHIFFRE" logs_securite/connexions_reseau.log | awk -F'|' '{print $4}' | sort | uniq -c
+
+  -> awk -F'|' '{print $4}' : extrait le 4e champ = le nom de l'utilisateur
+  -> sort | uniq -c         : compte combien de fois chaque personne apparait
+
+Notez le nom et le nombre de connexions.
+
+Bonus - A quelles heures ont lieu ces connexions?
+  grep "EXTERNE_CHIFFRE" logs_securite/connexions_reseau.log | awk '{print $2}'
+
+  -> Remarquez que toutes ces connexions ont lieu la nuit...
+
+Depuis quel terminal?
+  grep "EXTERNE_CHIFFRE" logs_securite/connexions_reseau.log | awk -F'|' '{print $2}' | sort | uniq
+
+  -> Un terminal revient-il systematiquement?
+
+Passez a l'etape 3.

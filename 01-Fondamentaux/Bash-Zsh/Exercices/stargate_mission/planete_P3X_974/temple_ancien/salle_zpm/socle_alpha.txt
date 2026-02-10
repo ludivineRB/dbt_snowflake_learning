@@ -1,0 +1,10 @@
+=== SOCLE ALPHA ===
+   [ZPM-ALPHA]
+   Status: *** EPUISE ***
+
+Le cristal est sombre et froid. Ce ZPM n'a plus
+aucune energie. Il a ete completement draine.
+
+Il doit y en avoir d'autres...
+Cherchez les autres socles. Certains pourraient
+etre caches (ls -a).

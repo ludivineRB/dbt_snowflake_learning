@@ -1,0 +1,85 @@
+================================================================================
+            TRANSMISSIONS CHIFFREES INTERCEPTEES
+                 Analyse du trafic reseau
+================================================================================
+
+Les transmissions suivantes ont ete capturees par le systeme de
+surveillance reseau du SGC. Elles utilisent un protocole de chiffrement
+non standard, incompatible avec les systemes du SGC.
+
+================================================================================
+
+--- TRANSMISSION #1 ---
+Date: 2024-03-01 22:50:33
+Source: TERMINAL-42
+Duree: 180 secondes
+Contenu (chiffre):
+
+X7f#kL9$mNp@2vBw!qR5tYu*8aCd&3eF
+gH6jKl+MnO0pQrS1TuVw2XyZ3AbCd4Ef
+5GhIj6KlMn7OpQr8StUv9WxYz0AaBbCc
+HEADER: NID-ALPHA-7742
+CHECKSUM: 0xDEAD0042
+
+--- TRANSMISSION #2 ---
+Date: 2024-03-05 01:35:22
+Source: TERMINAL-42
+Duree: 240 secondes
+Contenu (chiffre):
+
+Qw3$rTy&uIo*pAs2DfGh!jKl@zXc#vBn
+Mm8Kk7Jj6Hh5Gg4Ff3Dd2Ss1Aa0QqWw
+eErRtTyYuUiIoOpPaAsSdDfFgGhHjJkK
+TRANSFERT: DONNEES_TECHNOLOGIQUES_GOAULD
+HEADER: NID-ALPHA-7742
+CHECKSUM: 0xDEAD0042
+
+--- TRANSMISSION #3 ---
+Date: 2024-03-07 00:12:45
+Source: TERMINAL-42
+Duree: 300 secondes
+Contenu (chiffre):
+
+LpR4$nBv&cXz!sAq@wEdR#fTg*yHu2Jk
+IkOl8Mn7Bv6Cx5Zs4Aq3Ww2Ee1Rr0Tt
+YyUuIiOoPpAaSsDdFfGgHhJjKkLlZzXx
+TRANSFERT: SPECS_CRISTAL_CONTROLE_PORTE
+HEADER: NID-ALPHA-7742
+CHECKSUM: 0xDEAD0042
+
+--- TRANSMISSION #4 ---
+Date: 2024-03-15 03:22:45
+Source: TERMINAL-42
+Duree: 180 secondes
+Contenu (chiffre):
+
+Bv7#nMk$lJh@gFd!sAq2wErT*yUi&oP3
+PpOoIiUuYyTtRrEeWwQqAaSsDdFfGgHh
+JjKkLlZzXxCcVvBbNnMm1234567890Ab
+TRANSFERT: COORDONNEES_P4X884
+HEADER: NID-ALPHA-7742
+CHECKSUM: 0xDEAD0042
+
+--- TRANSMISSION #5 ---
+Date: 2024-03-19 02:50:18
+Source: TERMINAL-42
+Duree: 210 secondes
+Contenu (chiffre):
+
+Hy5$tGb&nFr!dEs2wAq@kJu*iOp#lMz3
+AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPp
+QqRrSsTtUuVvWwXxYyZz0123456789Xk
+TRANSFERT: CALENDRIER_MAINTENANCE_PORTE
+HEADER: NID-ALPHA-7742
+CHECKSUM: 0xDEAD0042
+
+================================================================================
+OBSERVATIONS:
+  - Toutes les transmissions proviennent du TERMINAL-42
+  - Le HEADER "NID-ALPHA-7742" est identique pour toutes
+  - Le CHECKSUM contient "0042" - coincidence avec un numero de badge?
+  - Les dates et heures correspondent aux connexions EXTERNE_CHIFFRE
+    dans les logs reseau
+  - Les transferts mentionnent des technologies Goa'uld et des
+    coordonnees de planete
+================================================================================

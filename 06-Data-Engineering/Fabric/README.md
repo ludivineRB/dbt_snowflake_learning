@@ -242,7 +242,7 @@ Ce cours est maintenu et mis à jour régulièrement. Pour toute suggestion ou c
 
 ## 📜 Licence
 
-© 2025 - Simplon Formation
+© 2025 - Formation Data Engineer
 Ce matériel pédagogique est fourni à des fins éducatives uniquement.
 
 ---

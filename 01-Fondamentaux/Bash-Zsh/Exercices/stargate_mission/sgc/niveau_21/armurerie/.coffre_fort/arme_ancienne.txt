@@ -1,0 +1,9 @@
+=== COFFRE-FORT - ARMURERIE ===
+Objet: Arme des Anciens (prototype)
+Status: Non fonctionnel
+Autorise uniquement pour le General O'Neill
+(porteur du gene ATA)
+
+Bien joue pour avoir trouve ce coffre cache,
+mais ce n'est pas ce que vous cherchez.
+Le labo de Carter n'est pas dans l'armurerie.

@@ -1,0 +1,9 @@
+=== BUNKER SOUTERRAIN - P2X-338 ===
+Transmissions Goa'uld interceptees:
+
+[SIGNAL 1] "Kree! Les Tau'ri ont detruit notre base!"
+[SIGNAL 2] "Lord Ba'al ordonne le repli vers Dakara"
+[SIGNAL 3] "Les Jaffa libres avancent"
+
+Interessant historiquement, mais inutile pour
+votre mission. Le ZPM est sur P3X-974.

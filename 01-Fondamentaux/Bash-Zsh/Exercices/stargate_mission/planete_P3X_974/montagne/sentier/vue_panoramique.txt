@@ -1,0 +1,9 @@
+=== SENTIER DE MONTAGNE ===
+Depuis ici, vous avez une vue sur toute la planete:
+- Les ruines au nord brillent d'une faible lueur
+- Le temple semble intact malgre les millenaires
+- La foret est dense et impenetrable
+- La Porte des Etoiles scintille au loin
+
+Belle vue, mais vous perdez du temps.
+Redescendez et allez au temple.

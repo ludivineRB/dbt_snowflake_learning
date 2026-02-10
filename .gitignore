@@ -22,14 +22,10 @@ terraform.rc
 
 .venv
 
-
 gcp.pub
 
 *.pyc
-
-08-Machine-Learning/
-09-Deep-Learning/
-10-Large-Language-Model/
+*.pth
 
 .DS_Store
 .env
@@ -40,6 +36,11 @@ data/
 03-Infrastructure-as-Code/Terraform/A trier/Terraform/Trainning terraform/AWS/creds/berry-devops.pem
 .claude
 Formateur/
+
+08-Machine-Learning/
+11-Gestion-Projet/
+Modelisation/
+RGPD-Gouvernance/
 
 # Node.js / NPM (pour semantic-release)
 node_modules/

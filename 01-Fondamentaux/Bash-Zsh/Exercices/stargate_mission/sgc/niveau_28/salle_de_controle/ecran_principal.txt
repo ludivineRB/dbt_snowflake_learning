@@ -1,0 +1,13 @@
+============================================
+  SGC - SYSTEME DE CONTROLE DE LA PORTE
+============================================
+  Status Porte:     INACTIVE
+  Iris:             FERME
+  Dernier transit:  SG-1 vers P2X-338
+  Prochain transit: EN ATTENTE
+
+  ACCES AUX ADRESSES: ** RESTREINT **
+
+  "Ce n'est pas ici que vous trouverez
+   les informations. Cherchez mieux."
+============================================

@@ -1,4 +1,4 @@
-# Brief Projet Data Engineering - Formation Simplon
+# Brief Projet Data Engineering
 ## Pipeline NYC Taxi : Analyse de Données Massives avec Snowflake
 
 ---

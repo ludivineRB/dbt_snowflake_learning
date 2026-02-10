@@ -1,0 +1,20 @@
+=== LABORATOIRE DU DR. SAMANTHA CARTER ===
+Lt. Colonel, USAF - Astrophysicienne
+
+"Si vous lisez ceci, vous avez reussi a trouver mon labo.
+Pas mal pour un(e) bleu(e) !
+
+J'ai verifie les coordonnees de P3X-974. La planete est
+accessible via notre Porte. Mais pour composer l'adresse,
+il va falloir comprendre comment fonctionne le DHD.
+
+Rendez-vous dans le dossier 'porte_des_etoiles/' a la
+racine de la mission (remontez jusqu'a stargate_mission/)
+pour apprendre a composer l'adresse.
+
+PS: J'ai laisse des notes supplementaires dans mon sous-dossier
+d'experiences si ca vous interesse... mais ce n'est pas
+obligatoire pour la mission.
+
+Bonne chance!"
+- Lt. Col. Samantha Carter
