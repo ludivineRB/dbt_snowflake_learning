@@ -1,3 +1,11 @@
+# [2.10.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.9.0...v2.10.0) (2026-02-10)
+
+
+### Features
+
+* **cours:** Ajout cours projet , rgpd, modelisation ([8860bed](https://github.com/gsoulat/formation-data-engineer/commit/8860bedc48abe5ffdf472fb6c86d9b918b90e439))
+* **ML:** Ajout cours Machine Learning ([964a89c](https://github.com/gsoulat/formation-data-engineer/commit/964a89c7113a9dbfa3ed562a053ee91b787ea8a1))
+
 # [2.9.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.8.1...v2.9.0) (2026-02-10)
 
 
