@@ -1,3 +1,19 @@
+# [2.9.0](https://github.com/gsoulat/formation-data-engineer/compare/v2.8.1...v2.9.0) (2026-02-10)
+
+
+### Bug Fixes
+
+* **Bash:** Update jeux pour pratiquer le bash ([ec08bf3](https://github.com/gsoulat/formation-data-engineer/commit/ec08bf30fd4ec5e029417ea180e6a3aeed15a359))
+* **Readme:** Update Readme ([6cd5e5a](https://github.com/gsoulat/formation-data-engineer/commit/6cd5e5a22cba58e4c9e2619f391415b020e1b086))
+
+
+### Features
+
+* **brief:** Ajout brief snowflake + dbt pour dev IA ([7cf5f89](https://github.com/gsoulat/formation-data-engineer/commit/7cf5f896b0675833fdcf88b193701a67b8768e26))
+* **Deep Learning:** add cours deep learning ([4633b15](https://github.com/gsoulat/formation-data-engineer/commit/4633b15732939bc5bcc2b9804cf3d351dcbb883f))
+* **IA:** add machine learning ([b107849](https://github.com/gsoulat/formation-data-engineer/commit/b10784936df141c329e820bf465696fc11e019e2))
+* **LLM:** add cours LLM ([9b359a2](https://github.com/gsoulat/formation-data-engineer/commit/9b359a27be5a303e0b34e032629c326e079af74c))
+
 ## [2.8.1](https://github.com/gsoulat/formation-data-engineer/compare/v2.8.0...v2.8.1) (2026-02-08)
 
 
