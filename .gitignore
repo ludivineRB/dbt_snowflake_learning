@@ -38,9 +38,6 @@ data/
 Formateur/
 
 
-11-Gestion-Projet/
-Modelisation/
-RGPD-Gouvernance/
 
 # Node.js / NPM (pour semantic-release)
 node_modules/
