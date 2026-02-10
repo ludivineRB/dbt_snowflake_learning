@@ -37,10 +37,7 @@ data/
 .claude
 Formateur/
 
-08-Machine-Learning/
-11-Gestion-Projet/
-Modelisation/
-RGPD-Gouvernance/
+
 
 # Node.js / NPM (pour semantic-release)
 node_modules/
