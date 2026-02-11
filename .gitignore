@@ -82,3 +82,5 @@ wheels/
 .env.local
 .env.*.local
 
+*.parquet
+*.log
